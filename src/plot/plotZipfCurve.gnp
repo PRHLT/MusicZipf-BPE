@@ -1,0 +1,56 @@
+# Output configuration #
+set terminal pngcairo font "Helvetica,16"
+set output "ZipfPlot.png"
+
+# Plot appearance settings #
+set size 0.88,1 # plot size
+
+set xlabel "Word rank"      offset 0,  0.0, 0
+set ylabel "Word frequency" offset -0.5,  0.0, 0
+
+set logscale x ; set logscale y
+
+set size ratio -1 # square plot
+
+set grid
+set tics nomirror
+set key spacing 1.5 
+
+set xrange [0.7:130000]
+set yrange [0.7:130000]
+
+set xtics offset character 0, 0.1, 0
+set format x "10^{%T}"
+set ytics offset character 0.5, 0, 0
+set format y "10^{%T}"
+
+# Read fitted parameters from .fit files etc.
+
+plots = ""
+
+if (!exists("fitfile1")) {
+     fitfile1 = ""
+} else{
+     a1 = system("awk '/Final set of parameters/,/correlation matrix/ { if ($1 == \"a\") print $3 }' " . fitfile1)
+     b1 = system("awk '/Final set of parameters/,/correlation matrix/ { if ($1 == \"b\") print $3 }' " . fitfile1)
+     c1 = system("awk '/Final set of parameters/,/correlation matrix/ { if ($1 == \"c\") print $3 }' " . fitfile1)
+     a1 = real(a1); b1 = real(b1); c1 = real(c1)
+
+     # Define the function using extracted parameters
+     f1(x) = (a1 / (b1 + x))**c1
+
+     # Define plot
+     label1 = "BPE ".label1
+     plots = plots . sprintf("\
+          '%s' using 1:3 w l dt 1 lc rgb \"#0072B2\" lw 6 notitle, \
+          '%s' using 1:3 every ::0::0 with points pt 13 ps 1 lc rgb \"#0072B2\" title '%s', \
+          f1(x) w l dt 1 lc rgb \"#03476F\" lw 2.5 notitle", datafile1, datafile1, label1)
+}
+
+# Finally, plot everything
+
+if (strlen(plots) > 0) {
+    eval("plot " . plots)
+} else {
+    print "No data files given"
+}

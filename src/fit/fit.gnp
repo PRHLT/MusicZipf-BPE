@@ -1,0 +1,29 @@
+### --- fit.gnp ---
+# Input and output
+
+# Initialization of parameters
+if (!exists("a")) a = 1000.0
+if (!exists("b")) b = 1.0
+if (!exists("c")) c = 1.0
+
+h=0.3 # exponent for the weights
+
+# Define the model
+#f(x) = (c**z)/((q + x)**z)
+f(x)=(a/(b+x))**c
+
+# Fit the data
+fit f(x) datafile using 1:3:(1/$1**h) via a,b,c
+
+print "\n## Fitted parameters: ##"
+print "c =", a
+print "q =", b
+print "z =", c
+
+# Also append just the parameter values to a small text file
+#set print data.'_WeightFit-0.3.params'
+#print "# fitted parameters"
+#print "c = ", a
+#print "q = ", b
+#print "z = ", c
+### --- end of script ---

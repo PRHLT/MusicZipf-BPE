@@ -1,0 +1,10 @@
+name: bpe-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - ipython
+  - gnuplot
+  - pip
