@@ -29,8 +29,8 @@ Each subdirectory includes its own `README.md` with additional details.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/PRHLT/MusicZipf-BPE.git
+cd MusicZipf-BPE
 ```
 
 ### 2. Setup the environment
