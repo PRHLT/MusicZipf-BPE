@@ -3,21 +3,23 @@ title: "Code and data for: Plainchant Music Modeling through Zipf's Law"
 authors:
   - family-names: "Menárguez-Box"
     given-names: "Aitana"
+    affiliation: "Pattern Recognition and Human Language Technology (PRHLT) Research Center, Universitat Politècnica de València"
   - family-names: "Toselli"
     given-names: "Alejandro H."
+    affiliation: "Pattern Recognition and Human Language Technology (PRHLT) Research Center, Universitat Politècnica de València"
   - family-names: "Vidal"
     given-names: "Enrique"
-affiliation: "Pattern Recognition and Human Language Technology (PRHLT) Research Center, Universitat Politècnica de València"
+    affiliation: "Pattern Recognition and Human Language Technology (PRHLT) Research Center, Universitat Politècnica de València"
 date-released: 2025-10-30
 version: "1.0.0"
 url: "https://github.com/PRHLT/MusicZipf-BPE.git"
 license: "CC-BY-NC-4.0"
 keywords:
-  - Zipf’s law
-  - Zipfian distributions
-  - Music
-  - Plainchant melodies
-  - Melodic patterns
-  - Musical words
-  - Byte Pair Encoding
-  - BPE
+  - "Zipf's law"
+  - "Zipfian distributions"
+  - "Music"
+  - "Plainchant melodies"
+  - "Melodic patterns"
+  - "Musical words"
+  - "Byte Pair Encoding"
+  - "BPE"
