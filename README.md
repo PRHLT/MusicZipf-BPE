@@ -117,5 +117,5 @@ All materials in this repository (code and data) are released under the
 You are free to use, modify, and share this work **for non-commercial purposes**, 
 provided you give appropriate credit by citing the paper above.
 
-🔒 Commercial use is not permitted.
+Commercial use is not permitted.
 If you wish to use this code or data for commercial purposes, please contact the authors.
