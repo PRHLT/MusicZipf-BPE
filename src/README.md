@@ -11,4 +11,5 @@ The code is organized into submodules according to their purpose.
 | `bpe/` | Code for training a **Byte Pair Encoding (BPE)** vocabulary and for encoding GT with vocabularies of musical words. |
 | `fit/` | Scripts for fitting empirical data to the **ZMS (Zipf-Mandelbrot-Simon) model**, producing the estimated parameters used in the paper. |
 | `metrics/` | Functions to compare empirical data to the ZMS estimations. Computes the evaluation metrics **R²** and **Kolmogorov-Smirnov (K-S) distance**, as described in the paper. |
+| `omr/` | Code to train **Optical Music Recognition** models with the PyLaia tool. |
 | `plot/` | Code to generate **Zipf curves** for a given vocabulary and ZMS estimation, used to create figures shown in the paper. |

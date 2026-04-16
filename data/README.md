@@ -2,6 +2,8 @@
 
 This directory contains the datasets used in the study.
 
+- `lines/` — Information about the distribution of lines extracted from the 
+images of the different manuscripts used for training the OMR models.
 - `fits/` — Parameters estimated for the ZMS (Zipf-Mandelbrot-Simon) law (Eq. 1 of the paper) for 
 different data configurations.
 - `GT/` — Groud Truth transcriptions for the datasets of *Vorau-253* (VOR), 

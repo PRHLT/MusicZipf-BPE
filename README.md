@@ -69,6 +69,11 @@ brew install gnuplot gawk coreutils
 
 For Windows users, it’s recommended to use WSL ([Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/)) to ensure these commands are available.
 
+#### 3.1 PyLaia Toolkit
+
+For training the OMR models, we used PyLaia. For installing it inside the
+environment, please refer to the corresponding [GitHub repo](https://github.com/jpuigcerver/PyLaia).
+
 ### 4. Test your installation
 Once the environment is ready, you can test that everything works by running:
 ```bash
