@@ -3,71 +3,6 @@ import heapq
 import time
 
 
-def get_vocab(text):
-    """
-    Build vocabulary from a text.
-    """
-    vocab = Counter(tok for line in text for tok in line)
-    return vocab
-
-
-def get_pair_frequencies(text):
-    """
-    Get frequencies of each pair of consecutive symbols.
-    """
-    pairs = defaultdict(int)
-    for line in text:
-        symbols = line.split()
-        for i in range(len(symbols) - 1):
-            pairs[(symbols[i], symbols[i + 1])] += 1
-    return pairs
-
-
-def merge_pair(text, pair, separator=""):
-    """
-    Merge the most frequent pair into a single token in all text.
-    """
-    new_text = []
-    bigram = " " + " ".join(pair) + " "
-    replacement = " " + separator.join(pair) + " "
-    for line in text:
-        new_text.append(line.replace(bigram, replacement))
-    return new_text
-
-
-def get_initial_pairs(text, protected):
-    """
-    Get initial pair frequencies from the text (as list of lists of tokens).
-    Returns both the pair frequency dict and the heap.
-    """
-    pairs = defaultdict(int)
-    for line in text:
-        for i in range(len(line) - 1):
-            pair = (line[i], line[i + 1])
-            # skip protected tokens
-            if any(tok in protected for tok in pair):
-                continue
-            pairs[pair] += 1
-
-    # build heap
-    heap = [(-freq, pair) for pair, freq in pairs.items()]
-    heapq.heapify(heap)
-    return pairs, heap
-
-
-def update_pair(pair, delta, pairs, heap, protected):
-    """
-    Update pair frequency and push it to heap.
-    """
-    if any(tok in protected for tok in pair):
-        return
-    pairs[pair] += delta
-    if pairs[pair] <= 0:
-        pairs.pop(pair, None)
-        return
-    heapq.heappush(heap, (-pairs[pair], pair))
-
-
 def bpe(text, protected_tokens=[], min_occ=1, max_tknlen=5, separator=""):
     """
     Apply BPE to the given text until convergence.
@@ -150,6 +85,103 @@ def bpe(text, protected_tokens=[], min_occ=1, max_tknlen=5, separator=""):
         )
 
     return vocab, all_pairs, total_merges, text
+
+
+def get_initial_pairs(text, protected):
+    """
+    Get initial pair frequencies from the text (as list of lists of tokens).
+    Returns both the pair frequency dict and the heap.
+    """
+    pairs = defaultdict(int)
+    for line in text:
+        for i in range(len(line) - 1):
+            pair = (line[i], line[i + 1])
+            # skip protected tokens
+            if any(tok in protected for tok in pair):
+                continue
+            pairs[pair] += 1
+
+    # build heap
+    heap = [(-freq, pair) for pair, freq in pairs.items()]
+    heapq.heapify(heap)
+    return pairs, heap
+
+
+def get_pair_frequencies(text):
+    """
+    Get frequencies of each pair of consecutive symbols.
+    """
+    pairs = defaultdict(int)
+    for line in text:
+        symbols = line.split()
+        for i in range(len(symbols) - 1):
+            pairs[(symbols[i], symbols[i + 1])] += 1
+    return pairs
+
+
+def get_vocab(text):
+    """
+    Build vocabulary from a text.
+    """
+    vocab = Counter(tok for line in text for tok in line)
+    return vocab
+
+
+def merge_pair(text, pair, separator=""):
+    """
+    Merge the most frequent pair into a single token in all text.
+    """
+    new_text = []
+    bigram = " " + " ".join(pair) + " "
+    replacement = " " + separator.join(pair) + " "
+    for line in text:
+        new_text.append(line.replace(bigram, replacement))
+    return new_text
+
+
+def tokenize(line, vocab, max_tknlen, separator=""):
+    """
+    Tokenize a line of text.
+    Greedy algorithm that matches from left to right the longest tokens.
+
+    Input: line: list of symbols
+           vocab: dict {token: frequency}
+           max_tknlen: int maximum token length
+           separator: str separator between tokens
+
+    Output: tokenized line (string)
+    """
+    tokenization = []
+    end_idx = min([len(line), max_tknlen])
+    start_idx = 0
+
+    while start_idx < len(line):
+        word = separator.join(line[start_idx:end_idx])
+        if word in vocab:
+            tokenization.append(word)
+            start_idx = end_idx
+            end_idx = min([len(line), start_idx + max_tknlen])
+        elif len(word.split(separator)) == 1:
+            tokenization.append(word)
+            start_idx = end_idx
+            end_idx = min([len(line), start_idx + max_tknlen])
+        else:
+            end_idx -= 1
+
+    return " ".join(tokenization)
+
+
+def update_pair(pair, delta, pairs, heap, protected):
+    """
+    Update pair frequency and push it to heap.
+    """
+    if any(tok in protected for tok in pair):
+        return
+    pairs[pair] += delta
+    if pairs[pair] <= 0:
+        pairs.pop(pair, None)
+        return
+    heapq.heappush(heap, (-pairs[pair], pair))
 
 
 if __name__ == "__main__":

@@ -61,6 +61,7 @@ parser.add_argument(
 )
 args = parser.parse_args()
 
+
 if __name__ == "__main__":
     gt_file = args.ground_truth
     separator = args.separator

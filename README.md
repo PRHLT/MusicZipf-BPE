@@ -13,13 +13,13 @@ This repository contains the code and data accompanying the paper:
 
 ## Repository Structure
 
-- `data/` → Raw and processed datasets.
-- `src/` → Source code for preprocessing, BPE and visualization.
-- `notebooks/` → Jupyter notebooks demonstrating example usage and reproducing results.
-- `results/` → Audio samples generated through the experiments described in the 
+- `data/` &rarr Raw and processed datasets.
+- `src/` &rarr Source code for preprocessing, BPE and visualization.
+- `notebooks/` &rarr Jupyter notebooks demonstrating example usage and reproducing results.
+- `results/` &rarr Audio samples generated through the experiments described in the 
 paper and resulting data for the execution of the Jupyter notebooks inside 
 `notebooks/`.
-- `environment.yml` → Conda environment file for reproducing the software setup.
+- `environment.yml` &rarr Conda environment file for reproducing the software setup.
 
 Each subdirectory includes its own `README.md` with additional details.
 
