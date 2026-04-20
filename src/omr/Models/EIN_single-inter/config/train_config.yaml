@@ -1,0 +1,27 @@
+common:
+  model_filename: EIN_single-inter
+  train_path: Models/EIN_single-inter
+data:
+  batch_size: 4
+  color_mode: L
+img_dirs:
+- ../../data/lines/IMAGES/
+logging:
+  filepath: train.log
+  level: INFO
+  overwrite: 'false'
+  to_stderr_level: INFO
+optimizer:
+  learning_rate: 0.0005
+  name: Adam
+syms: ../../data/lines/EIN_symbols_inter.txt
+tr_txt_table: ../../data/lines/transcriptions/EIN_train_gt_inter.txt
+train:
+  augment_training: 'true'
+  delimiters:
+  - <space>
+  early_stopping_patience: 20
+trainer:
+  auto_select_gpus: 'true'
+  gpus: 1
+va_txt_table: ../../data/lines/transcriptions/EIN_val_gt_inter.txt

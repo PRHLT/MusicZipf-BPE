@@ -1,0 +1,59 @@
+common:
+  model_filename: EIN_words-inter
+  train_path: Models/EIN_words-inter
+crnn:
+  cnn_activation:
+  - LeakyReLU
+  - LeakyReLU
+  - LeakyReLU
+  - LeakyReLU
+  cnn_batchnorm:
+  - true
+  - true
+  - true
+  - true
+  cnn_dilation:
+  - 1
+  - 1
+  - 1
+  - 1
+  cnn_dropout:
+  - 0
+  - 0
+  - 0
+  - 0
+  cnn_kernel_size:
+  - 3
+  - 3
+  - 3
+  - 3
+  cnn_num_features:
+  - 16
+  - 24
+  - 48
+  - 96
+  cnn_poolsize:
+  - 2
+  - 2
+  - 1
+  - 1
+  cnn_stride:
+  - 1
+  - 1
+  - 1
+  - 1
+  lin_dropout: 0.5
+  num_input_channels: 1
+  rnn_dropout: 0.5
+  rnn_layers: 3
+  rnn_type: LSTM
+  rnn_units: 256
+  use_masks: true
+fixed_input_height: 0
+logging:
+  filepath: creation.log
+  level: INFO
+  overwrite: 'true'
+  to_stderr_level: INFO
+save_model: 'true'
+syms: ../../data/lines/EIN_symbols_inter.txt

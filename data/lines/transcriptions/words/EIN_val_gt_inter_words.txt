@@ -1,0 +1,630 @@
+001v_CH-E-611.s0 <space> c3 <space> 0 -2 2 -2 0 2 <space> -5 -2 -2 2 <space> 0 2 3 -3 <space> 2 -2 0 0 -2 <space>
+001v_CH-E-611.s10 <space> c3 <space> 2 -2 0 -1 1 2 -2 2 0 2 -2 <space> 0 2 -2 2 -2 -2 2 -2 0 2 2 -2 2 1 -1 -2 -2 2 2 -2 2 -2 -2 -1 1 -1 <space> 3 2 <space> 1 -1 -2 2 -2 <space> 0 0 2 <space> 1 -1 -2 <space>
+001v_CH-E-611.s12 <space> c3 <space> 2 -2 0 -1 1 <space> 0 0 0 0 0 0 <space> 0 0 2 -2 0 2 <space> -3 1 2 -2 2 <space> 0 2 1 -1 0 -2 <space> -2 2 -2 -1 1 2 <space> -2 2 0 2 -2 <space> 2 -2 -2 <space>
+001v_CH-E-611.s14 <space> c3 <space> -2 2 2 -2 2 1 -1 <space> -2 -2 2 2 -2 2 -2 -2 <space> -1 1 -1 1 <space> 2 0 0 <space> 2 1 -1 -2 -2 -1 1 2 -2 0 -1 <space> 1 0 <space> 0 0 0 <space>
+001v_CH-E-611.s16 <space> c3 <space> 2 -2 0 0 0 <space> 0 2 -2 0 0 <space> 2 -3 1 2 -2 2 <space> 0 2 1 -1 0 -2 <space> 0 2 -2 2 -2 -2 2 -2 <space> 2 2 -2 2 1 -1 -2 -2 2 2 -2 2 -2 -2 -1 1 -1 <space> -4 -2 <space>
+001v_CH-E-611.s18 <space> c4 <space> 2 -2 0 -1 -4 2 3 2 -2 -1 1 2 0 -2 <space> 0 0 4 <space> 2 -2 -2 2 0 0 <space> -2 2 -2 -2 0 <space> 4 3 -3 3 <space> 0 2 -2 0 -3 <space> 3 -5 0 -2 0 <space> -1 3 <space>
+001v_CH-E-611.s20 <space> c4 <space> -2 2 -2 -2 2 2 -2 <space> -2 2 0 -2 <space> -5 2 3 2 -2 <space> 0 -1 3 0 2 <space> 2 -2 <space> -4 2 -2 0 <space> 0 2 2 -2 2 <space> 3 2 -2 2 <space> -3 1 -3 <space> 2 1 <space>
+001v_CH-E-611.s22 <space> c4 <space> -2 2 2 0 -2 -2 <space> -1 1 2 -2 2 0 -2 <space> 2 -2 0 -3 3 <space> 0 0 0 -5 <space> 2 -2 2 3 <space> 2 -2 <space>
+001v_CH-E-611.s24 <space> c4 <space> 2 -2 2 0 0 <space> 0 2 -2 -2 2 <space> 0 <space>
+001v_CH-E-611.s26 <space> c4 <space> 0 -2 2 -2 -2 0 <space> 2 2 -2 2 -2 -2 <space> -1 -2 3 0 <space> 2 0 2 -2 2 -2 <space> -2 2 2 -2 -2 <space> 2 0 -2 0 2 <space> 2 2 -2 2 -2 -2 <space> 2 -2 2 3 <space> 2 -2 -1 -2 -2 2 <space> -4 <space>
+001v_CH-E-611.s28 <space> c4 <space> 2 2 -2 0 -2 0 <space> 0 2 2 -4 2 -2 <space> 0 2 2 0 -2 <space> 2 2 -2 -2 0 2 <space> -2 -2 2 -2 0 <space> 2 2 -2 2 -2 <space> 2 -2 0 0 <space> 2 <space>
+001v_CH-E-611.s2 <space> c2 <space> -2 2 3 2 <space> -3 1 2 -2 -1 1 <space> -1 -2 0 3 -1 1 -1 -2 <space> 0 3 -1 1 2 <space> 2 -7 <space> 3 -1 <space>
+001v_CH-E-611.s30 <space> c3 <space> -2 4 3 <space> 0 2 -2 0 -1 1 <space> 2 2 -2 2 0 -2 <space> -3 1 2 0 <space> -2 2 -2 2 -2 0 -1 -2 <space> -2 2 -2 2 <space> 3 -5 2 -2 0 <space> -2 4 3 0 -1 <space> 1 -3 <space>
+001v_CH-E-611.s32 <space> c3 <space> 2 -2 -2 2 <space> 16 <space> -16 <space> 2 -2 0 0 2 -2 <space> 0 0 0 <space> 7 0 0 <space> 3 -3 3 -3 -2 <space> 2 -2 <space>
+001v_CH-E-611.s34 <space> c2 <space> 0 0 3 -1 <space> 1 2 0 <space> -5 3 -3 <space>
+001v_CH-E-611.s4 <space> c2 <space> 3 -2 -1 1 -1 -2 0 3 -1 1 -1 -2 <space> 0 2 1 -1 -2 <space> 0 2 -2 -2 0 2 2 -2 2 1 -1 <space> -2 -2 0 <space> 0 -3 2 1 -1 -2 -2 2 0 -2 <space> 7 0 -2 2 <space> 2 -4 0 2 2 -2 <space> 2 -2 2 1 -1 <space> -4 2 0 <space>
+001v_CH-E-611.s6 <space> c3 <space> -2 2 -4 2 -2 <space> 0 -3 3 2 2 <space> -2 0 -2 0 <space> 4 -2 <space> -3 1 -3 -2 <space> 5 -3 -2 2 <space> 2 -2 -2 -2 2 2 <space> 3 0 -1 <space> 3 -2 0 <space> -1 -2 3 2 <space> 3 -1 1 -1 -2 2 -2 <space> 0 0 -2 <space>
+001v_CH-E-611.s8 <space> c3 <space> -2 0 2 <space> -5 -2 5 0 <space> -3 3 -1 <space> 1 <space> 4 -2 <space> -3 1 -3 -2 <space> 5 -3 0 <space> -2 7 2 <space> 1 -1 -2 -2 2 -2 0 -1 <space> 1 0 2 -2 <space> 0 2 -2 2 <space> -2 2 0 0 <space> 0 2 1 -1 0 -2 <space>
+009v_CH-E-611.s0 <space> c4 <space> 2 1 -1 1 -1 <space> 0 -2 -2 <space> -2 2 2 <space> 2 <space> -6 <space> 2 2 -4 0 <space> 7 0 2 <space> -3 1 -3 <space> -9 <space> 2 0 0 <space> 7 0 3 -3 <space> -2 <space>
+009v_CH-E-611.s10 <space> c4 <space> 0 7 0 -2 <space> -2 2 2 -2 <space> -5 3 -3 <space> 3 -3 3 -3 <space> 0 -2 5 2 <space> 2 2 -2 <space>
+009v_CH-E-611.s12 <space> c3 <space> -1 1 2 -2 2 2 -2 0 <space> 0 2 0 -2 -2 2 2 -4 0 -1 -2 -2 2 -2 <space> 2 -4 4 <space> 3 0 2 -2 <space> 2 -2 2 3 -1 -2 <space> 0 0 -3 1 2 <space> -2 -1 -2 2 <space> 3 -3 -2 -2 <space> 2 3 -7 <space> 2 -2 4 <space> 3 2 <space>
+009v_CH-E-611.s14 <space> c3 <space> -1 -4 <space> 5 -3 2 -2 -2 <space> 5 2 <space> 2 1 -3 -2 0 <space> -1 -2 3 <space>
+009v_CH-E-611.s16 <space> c4 <space> -5 2 0 <space> 7 3 -3 0 <space> -2 0 -2 2 2 -2 <space> 2 3 -3 -2 -2 <space> 2 2 -2 2 -2 -2 <space> -3 0 3 -1 1 -1 -2 <space> 0 3 2 -2 0 -3 <space> 3 2 2 0 <space> -2 2 -4 2 <space>
+009v_CH-E-611.s18 <space> c4 <space> -1 1 2 -2 2 0 -2 <space> 4 0 -2 <space> 2 -4 -3 3 0 <space> 0 -3 3 -3 0 -2 <space> 2 2 3 <space> 2 0 -2 -2 -1 <space> 1 2 -2 2 -2 -1 <space> 1 2 2 <space> -4 0 -1 -2 <space> -2 4 1 -1 -2 <space> 2 <space>
+009v_CH-E-611.s20 <space> c4 <space> -3 <space> 7 0 0 <space> -2 2 -2 0 -2 2 2 <space> -4 2 2 -2 2 0 2 -2 0 <space> 0 0 0 0 -2 2 -2 2 -4 0 2 2 -2 2 2 -2 <space> 0 -2 -2 -1 <space> 3 2 -2 -2 <space>
+009v_CH-E-611.s22 <space> c4 <space> 3 2 2 <space>
+009v_CH-E-611.s24 <space> c3 <space> 0 5 -1 1 0 <space> 2 -5 3 <space> 0 -1 1 2 <space> -5 3 -3 <space> -2 5 0 <space> 0 2 -2 2 2 -2 <space> 0 0 0 2 -2 <space> -2 0 -1 1 -3 <space>
+009v_CH-E-611.s26 <space> c3 <space> -1 1 -1 1 <space> -1 -2 2 1 2 -2 -1 <space> -2 2 1 -1 -2 -2 0 <space> 2 3 -3 -2 2 0 -2 <space>
+009v_CH-E-611.s28 <space> c2 <space> 2 1 -1 -2 -2 2 3 <space> 2 2 -2 0 -2 0 <space> -1 -2 -2 0 2 <space> 2 1 -1 -2 2 1 -3 <space>
+009v_CH-E-611.s2 <space> c4 <space> -2 -3 1 2 -2 -1 -2 -2 <space> 2 0 3 <space> -5 2 2 1 <space> 2 -2 -1 -2 3 <space> -3 -2 5 <space> 4 -2 2 <space> -5 1 2 <space> -2 -1 -2 3 -3 -2 <space> 4 <space>
+009v_CH-E-611.s30 <space> c2 <space> 0 0 0 0 2 <space> 2 1 -1 -2 2 1 -3 <space> -2 0 2 2 -2 -2 <space> 2 0 -2 2 <space> 0 -2 2 -2 <space> 2 -2 0 -1 -2 -2 2 0 -2 <space> 0 2 3 0 <space> 0 <space>
+009v_CH-E-611.s32 <space> c3 <space> -1 -2 5 -2 2 2 -2 <space> 0 -3 1 2 <space> -3 1 <space> 0 -3 3 2 2 <space> -2 -2 0 2 -2 -1 <space> 1 -1 -2 -2 <space> 2 -2 5 -1 1 <space> -3 2 3 2 -2 <space> 0 -3 1 2 -2 <space> -1 -2 2 1 -1 <space> -2 <space>
+009v_CH-E-611.s4 <space> c4 <space> 1 2 -2 -1 -2 -2 <space> 5 -1 -2 -2 2 <space> 0 7 0 0 <space> -2 -2 2 2 -2 -2 <space> -1 -2 0 0 <space> -2 5 2 -2 2 2 0 <space>
+009v_CH-E-611.s6 <space> c4 <space> 0 0 3 -3 -2 <space> 0 -2 4 -2 <space> 0 0 -3 3 2 <space> -2 -2 2 -2 <space> -3 -2 2 5 -3 <space> 1 -1 -2 7 <space> 0 -2 -2 <space>
+009v_CH-E-611.s8 <space> c4 <space> 2 2 -2 -5 <space> 0 -2 5 2 -2 <space> 2 2 0 <space> 2 -2 -2 -3 <space> 1 2 -2 -1 -2 0 <space> -2 0 2 3 <space> -1 3 -2 <space> -1 <space>
+019r_CH-E-611.s0 <space> c3 <space> 0 0 -1 <space> 3 2 0 0 -2 <space> 0 -2 4 0 <space> -4 2 2 -2 -2 <space> -7 2 <space> 0 2 -4 0 <space> 2 0 -2 2 <space>
+019r_CH-E-611.s10 <space> c4 <space> 5 -2 2 <space> -5 3 -2 -1 <space> -2 2 0 -2 <space> 5 <space> 4 1 -1 -2 3 -3 <space> 2 1 -1 0 -2 <space> -2 2 -2 -2 2 2 <space> 3 -3 0 -2 2 0 <space> 0 3 -5 <space> -2 2 -2 0 <space> -5 5 -3 3 -3 2 1 -1 <space>
+019r_CH-E-611.s12 <space> c4 <space> 0 0 0 0 -3 <space> 3 2 2 <space> -4 2 2 0 3 -5 -2 2 2 -2 -3 3 -3 1 0 -1 <space> 8 <space> 2 -2 0 -3 2 1 -1 -2 -2 <space> 5 -1 1 <space> -3 0 0 <space> 3 <space>
+019r_CH-E-611.s14 <space> c3 <space> 0 -2 2 3 0 -1 <space> 3 -3 1 0 -1 <space> 0 -2 3 <space> 0 0 0 -3 0 <space> 3 -3 0 0 3 -3 <space> -2 2 3 -1 3 <space> -3 1 <space> 0 -1 1 -3 3 0 <space> 0 <space>
+019r_CH-E-611.s16 <space> c3 <space> 0 0 2 -3 1 -1 -2 2 1 -1 -2 -2 0 2 3 <space> 0 -1 1 -3 3 -3 -2 <space> 2 0 -2 <space>
+019r_CH-E-611.s18 <space> c4 <space> 0 -5 3 <space> 0 2 3 -3 2 -2 -2 <space> 0 5 -1 1 <space>
+019r_CH-E-611.s20 <space> c3 <space> -2 0 -1 -2 -2 <space> 0 2 3 -3 2 -2 -2 <space> 0 5 -1 1 2 <space> -2 -1 1 2 -2 2 2 -2 <space> 0 0 2 <space> 1 -1 -2 2 -2 <space> -2 2 0 -2 -1 1 -1 -2 -2 2 0 -2 <space>
+019r_CH-E-611.s22 <space> c3 <space> -2 5 -5 2 3 -3 <space> 3 -1 1 2 -2 <space> 2 -3 1 2 <space> -7 2 <space> 5 -2 0 <space> 2 -2 0 -1 1 2 <space> -5 3 -1 -2 -2 2 0 <space> -2 7 0 2 <space> 1 -1 -2 -2 2 -2 0 -1 <space> 1 <space>
+019r_CH-E-611.s24 <space> c3 <space> 0 2 -3 1 2 -2 2 <space> 0 2 1 -1 1 -3 <space> -2 2 -2 0 -1 <space> 1 2 -2 2 <space> 0 0 0 0 2 -2 <space> 0 0 0 0 0 0 2 -2 2 -2 -2 <space>
+019r_CH-E-611.s26 <space> c3 <space> -2 2 2 -2 2 1 -1 <space> -2 -2 2 2 -2 2 -2 -2 <space> -1 1 -1 -2 -2 <space> 5 -5 2 3 -3 <space> -2 0 0 2 3 0 2 -2 <space> 0 -1 1 2 <space> 2 -2 2 0 <space> -2 0 2 0 <space> -4 2 2 <space>
+019r_CH-E-611.s28 <space> c3 <space> 0 -3 1 2 0 2 -2 -3 1 -1 -2 -2 2 -2 <space> 2 -4 2 2 <space> 3 2 -2 2 <space> -2 0 0 <space> -1 1 -1 -2 3 0 0 <space> -1 1 2 -2 -1 -2 2 1 -1 -2 <space> -2 0 2 3 <space> -3 -2 2 <space>
+019r_CH-E-611.s2 <space> c4 <space> -2 2 -2 -2 2 2 0 <space> 0 -4 2 2 <space> 0 0 0 3 <space> -5 0 -2 -1 1 <space> 0 2 2 3 -5 2 -2 <space> -2 2 2 <space>
+019r_CH-E-611.s30 <space> c3 <space> -2 0 0 <space> 0 0 2 3 <space> 0 2 -2 0 -1 1 <space> 2 2 -2 2 0 -2 <space> 0 0 0 2 1 <space> 0 0 -1 -4 <space> 4 -2 2 <space> -5 0 <space> 3 -3 1 0 -1 <space> 3 0 <space>
+019r_CH-E-611.s4 <space> c4 <space> -2 0 5 0 -1 1 <space> -3 -2 2 -2 <space> 5 0 0 <space> 0 0 0 0 -1 -2 -2 2 2 1 -3 <space> -2 2 2 1 -1 <space> 1 0 -1 <space>
+019r_CH-E-611.s6 <space> c4 <space> 0 2 1 -1 -2 -2 0 2 3 -1 -2 2 1 -5 0 -3 1 -1 <space> 1 0 2 2 -2 <space> 2 -2 2 3 -3 0 <space> 0 -2 0 -2 0 <space> 2 2 3 -5 2 -2 <space> -3 3 -3 <space> 1 -1 1 0 <space> 0 -3 <space>
+019r_CH-E-611.s8 <space> c4 <space> 2 -2 2 3 -3 -2 2 3 0 0 2 -2 -1 1 -1 -2 -2 2 -2 <space> 2 2 1 0 <space> -3 -2 0 2 3 <space> 0 -1 1 -3 3 -3 -2 <space> 2 0 -2 2 <space> 0 -5 <space>
+019v_CH-E-611.s0 <space> c2 <space> 3 -1 1 -1 -2 2 0 -2 <space> 3 -1 1 -3 0 -2 <space> 2 3 -1 1 -1 <space> 0 0 -2 -3 <space> 3 2 -2 2 1 -1 -2 <space> -2 0 -1 1 <space> -1 -2 0 5 -2 2 0 -3 1 2 -2 -1 -2 2 1 -1 -2 <space>
+019v_CH-E-611.s10 <space> c4 <space> 3 -3 2 1 -5 -3 1 2 -2 -1 1 -1 -2 2 -2 <space> 5 2 3 <space> 0 0 -1 -4 2 <space> 3 0 0 0 <space> -1 -2 2 -2 <space> 0 <space>
+019v_CH-E-611.s12 <space> c3 <space> -2 0 2 3 0 2 -2 <space> 2 2 <space>
+019v_CH-E-611.s14 <space> c3 <space> -2 2 -3 1 <space> -3 0 2 <space> 1 -1 0 -2 0 -2 <space> 2 0 0 3 -3 0 <space> 0 2 1 -1 -2 -2 2 3 -1 1 2 -2 <space> 0 -1 -2 0 <space> 0 -2 0 <space> 0 <space>
+019v_CH-E-611.s16 <space> c4 <space> 1 2 0 2 <space> -5 1 2 0 <space> 0 -2 -3 3 <space> 2 -3 1 -1 -2 <space> 0 -2 2 2 <space> 1 2 0 2 <space> 3 0 -1 -4 2 3 <space>
+019v_CH-E-611.s18 <space> c4 <space> -2 0 -2 -1 -2 <space> 3 2 2 -2 0 <space> 5 0 -1 <space> 1 -3 -2 2 -2 <space>
+019v_CH-E-611.s20 <space> c3 <space> 0 4 1 <space> 2 -2 4 -2 0 <space> 0 -2 -1 -2 2 <space> 1 -3 <space>
+019v_CH-E-611.s22 <space> c3 <space> 2 3 -3 0 <space> -4 2 2 0 <space> -2 0 5 0 -1 1 <space> -3 -2 -2 2 0 <space> -2 2 2 3 <space> -5 <space>
+019v_CH-E-611.s24 <space> c4 <space> -2 5 0 2 -2 <space> 0 -3 -2 -2 <space> 4 3 -3 <space> -2 0 0 <space> 0 -2 -3 <space> 2 1 2 2 0 -2 <space> -2 2 2 0 -2 0 <space>
+019v_CH-E-611.s26 <space> c4 <space> 0 -1 1 -3 -2 <space> 5 0 0 <space> 0 0 0 0 0 -1 <space> -2 -2 <space>
+019v_CH-E-611.s28 <space> c3 <space> 0 0 2 1 -1 -2 -2 2 <space> 0 0 3 -1 <space> 1 2 -2 -1 1 <space> 2 <space>
+019v_CH-E-611.s2 <space> c3 <space> 0 2 3 -3 -2 2 0 -2 <space> 7 <space> 2 1 -1 -2 -2 2 -2 0 -1 <space> 1 0 <space> 0 0 2 -2 2 <space> -2 2 -2 2 <space> 0 2 1 -1 0 -2 <space> -2 2 -2 0 -1 <space>
+019v_CH-E-611.s30 <space> c3 <space> 2 -2 0 -3 -2 <space> 0 2 3 -1 1 2 -2 <space> -1 1 2 -2 2 -3 1 -1 -2 2 1 -3 <space> 0 0 0 0 0 0 <space> 2 1 -1 -2 -2 2 3 -1 1 2 -2 <space>
+019v_CH-E-611.s32 <space> c4 <space> -1 -2 2 -2 -2 <space> 0 2 -2 2 <space> 0 3 2 -2 2 <space> -3 1 -3 0 <space> 3 -3 3 -5 -3 1 0 2 -2 -1 1 -1 -2 2 -2 <space> 7 -2 2 0 <space> 3 -1 -4 <space> 5 -1 1 2 -2 <space> 2 -2 -1 <space>
+019v_CH-E-611.s34 <space> c3 <space> 3 -1 1 -1 -2 -2 <space> 2 3 0 2 -2 0 <space> 0 2 2 -2 -2 0 <space> 2 -2 0 -1 1 2 <space> -3 1 -3 0 <space> 3 -3 -2 5 0 <space> 0 <space>
+019v_CH-E-611.s4 <space> c3 <space> 2 -2 2 0 0 <space> 0 0 0 0 2 -2 <space> 2 -2 -2 2 -2 0 2 <space> 2 -2 2 1 -1 -2 -2 2 2 -2 2 -2 -2 -1 1 -1 <space> 3 0 <space>
+019v_CH-E-611.s6 <space> c3 <space> 0 3 -3 0 -2 <space> 2 3 -3 3 0 <space> -1 -2 -2 2 3 -3 <space> 0 3 2 -2 0 -3 <space> 0 2 1 -1 -2 2 1 -3 <space> 0 0 3 -1 <space> 1 <space>
+019v_CH-E-611.s8 <space> c3 <space> 4 -2 0 -2 -1 1 -1 -2 2 1 -3 <space> 0 0 2 1 -1 -2 -2 2 <space> 3 -1 1 2 -3 1 -1 -2 2 -2 -2 <space> 0 0 2 3 <space> 0 -1 -2 3 -3 -2 <space> 5 <space>
+020r_CH-E-611.s0 <space> c3 <space> 2 -2 -2 2 -2 0 <space> 0 0 -1 1 2 -3 1 <space> -3 2 1 -1 0 <space> -2 0 -2 2 0 0 <space> 0 3 -3 0 2 1 -1 -2 -2 <space> 2 3 -1 1 2 -2 <space> 0 -1 -2 2 -2 -2 <space> 2 <space>
+020r_CH-E-611.s10 <space> c3 <space> 2 -2 0 0 0 <space> 0 2 -2 2 -2 -2 2 -2 <space> 2 2 -2 2 1 -1 -2 -2 2 2 -2 2 -2 -2 -1 1 -1 <space> -4 0 <space>
+020r_CH-E-611.s12 <space> c4 <space> 2 3 -3 <space> 7 3 <space>
+020r_CH-E-611.s14 <space> c4 <space> 0 0 3 -3 0 <space> 3 -5 0 -2 2 <space> 2 -2 2 -2 2 <space> -2 2 0 <space> 5 0 -3 <space> 1 -1 -2 0 -2 0 <space> 5 -3 0 <space> -2 -2 -1 1 <space> -1 1 -1 -2 3 -3 <space> 0 3 2 2 -4 -1 <space> -2 <space>
+020r_CH-E-611.s16 <space> c4 <space> 3 0 0 -1 <space> 1 <space> 4 3 -3 0 -2 <space> 2 -4 2 2 <space> -7 <space> 3 -1 1 -1 -2 0 <space> 3 2 0 2 <space> -4 4 -2 <space> -2 -1 -2 3 0 <space> -3 3 2 -2 0 -1 <space> 1 2 2 0 -2 <space> 2 -4 2 -2 <space> -1 1 2 -2 2 <space>
+020r_CH-E-611.s18 <space> c4 <space> -2 4 -2 <space> 2 -2 2 -2 -2 2 2 <space> 0 -2 2 -2 2 -4 <space> -1 -2 0 3 -3 <space> -2 2 3 -3 0 <space> 0 3 -1 1 <space> 0 2 2 2 -2 <space> -2 0 2 -2 -2 2 -2 <space> 0 0 -1 <space> 3 2 -2 2 <space> -2 <space>
+020r_CH-E-611.s20 <space> c4 <space> -2 4 -2 -2 <space> 2 -3 1 -1 -2 2 1 -3 <space> 0 3 2 2 -4 -1 <space> -2 3 <space> 0 0 2 2 -4 <space> 2 -2 -1 1 -3 0 <space> 3 -1 1 -1 -2 <space> 7 <space>
+020r_CH-E-611.s22 <space> c4 <space> -2 2 -2 0 -2 2 <space> 0 0 0 2 -2 0 <space> 0 0 0 2 -2 2 <space> -2 2 0 2 -2 0 <space> 0 -2 2 0 <space> 0 -2 2 -2 2 -4 <space>
+020r_CH-E-611.s24 <space> c4 <space> 2 2 -2 2 2 -2 0 -2 -2 -1 3 2 -2 -2 <space> 4 -2 2 <space> -7 <space> 5 -2 2 0 <space> 0 2 3 -3 0 <space> 0 -2 2 3 <space> -5 <space>
+020r_CH-E-611.s26 <space> c4 <space> -2 0 -2 4 <space> -4 2 2 -2 2 <space> 0 2 1 -1 -2 -2 2 <space> -4 2 2 3 -1 -2 2 1 -1 -2 -2 2 3 -3 -2 2 0 -2 <space> 0 5 0 <space> 0 2 -2 -3 <space> 2 1 -3 0 -2 2 <space> -2 -2 2 <space>
+020r_CH-E-611.s28 <space> c4 <space> -3 1 -1 -2 0 <space> 5 -2 -1 1 -1 <space> -2 0 -2 2 0 5 <space> -2 2 0 0 <space> 2 -2 0 0 0 <space> 2 3 -3 3 -5 0 <space> 0 0 -2 2 2 <space> -4 -1 -2 <space> 3 -5 2 3 -1 1 -1 -2 <space>
+020r_CH-E-611.s2 <space> c3 <space> 2 0 3 2 -2 2 -3 1 <space> -5 4 1 <space> 2 0 0 0 0 <space> 2 1 -1 -4 2 <space> 0 -3 1 2 0 2 -2 -3 1 -1 -2 -2 2 -2 <space> 7 -2 2 <space> -2 -1 1 -1 -2 -2 <space>
+020r_CH-E-611.s30 <space> c4 <space> 2 -2 -2 4 3 <space> -1 1 2 -2 -1 -2 2 1 -1 -2 -2 2 3 -3 -2 2 0 -2 <space> 0 5 0 <space> -3 3 -1 -2 <space> 2 1 2 0 -2 -1 -2 0 <space> -2 0 0 <space> 7 <space>
+020r_CH-E-611.s4 <space> c3 <space> -2 5 -3 <space> 3 0 2 -2 -1 -2 <space> 2 1 -1 -2 -2 2 0 -2 <space> 0 0 0 2 <space> 3 0 0 0 <space> -1 1 2 -2 -1 1 2 -2 -1 1 -1 -2 -2 2 -2 <space> 0 0 7 0 <space> -2 2 -2 -3 <space>
+020r_CH-E-611.s6 <space> c3 <space> 4 -2 2 -2 -2 <space> -1 1 <space> 0 -1 1 -1 <space> 1 2 0 2 <space> 1 -1 -5 1 2 0 -3 1 2 0 2 -2 -3 1 -1 -2 -2 2 -2 <space> 0 7 -2 <space> 2 -2 -1 1 -1 -2 -2 2 -2 <space> 5 -3 3 <space> 0 2 -2 <space>
+020r_CH-E-611.s8 <space> c3 <space> -2 2 1 -1 -2 -2 2 0 -2 <space> 7 0 2 <space> 1 -1 -2 -2 2 -2 0 -1 <space> 1 2 -2 0 <space> 2 -3 1 2 -2 2 <space> 0 0 2 <space> 1 -1 0 -2 <space> -2 2 -2 0 -1 <space> 1 2 0 <space>
+035v_CH-E-611.s0 <space> c4 <space> -1 3 2 <space> 0 0 -2 0 -2 <space> 4 0 -4 2 <space> 2 -2 -2 -3 <space> -2 2 3 -1 -2 <space> 0 3 <space>
+035v_CH-E-611.s10 <space> f3 <space> -5 2 0 <space> -2 2 3 0 0 <space> 0 0 -3 3 0 <space> 0 0 -1 -2 3 <space> -1 <space>
+035v_CH-E-611.s12 <space> c4 <space> -2 2 3 -5 <space> -3 <space> 8 <space> 0 0 0 0 -3 <space> -2 <space>
+035v_CH-E-611.s14 <space> c4 <space> 2 3 0 0 0 <space> -1 -2 0 3 <space> 0 -1 -4 2 3 -1 <space> -2 2 1 -5 <space> 0 -3 <space> 1 -1 0 <space> 1 2 0 2 -2 0 -2 <space> 2 2 -2 2 3 -3 0 <space> 3 -3 3 0 <space>
+035v_CH-E-611.s16 <space> c4 <space> 0 2 -2 -2 2 2 -2 <space> -3 3 -3 <space> 1 0 -1 <space> 3 -2 0 <space> 0 -3 5 2 <space> -2 5 <space> -5 2 3 0 2 -3 1 0 -1 <space> -4 0 2 <space> 3 0 -1 1 -3 3 -3 -2 <space> 2 0 -2 <space>
+035v_CH-E-611.s18 <space> c4 <space> 0 -1 -2 3 -1 <space> -2 2 -2 0 0 <space> -2 0 2 0 <space> 5 -2 2 -3 1 <space> -3 0 0 <space> -2 2 -4 2 <space> -3 1 -1 -2 2 1 -3 <space> 5 -2 0 -3 <space> 3 -3 <space> 5 2 3 -3 <space> -2 2 3 <space>
+035v_CH-E-611.s20 <space> c4 <space> 0 -1 -2 0 <space> 0 -2 -2 2 2 -2 <space> 0 -2 -1 1 -1 -2 <space> 3 -3 3 <space> 2 2 -2 2 2 -2 -2 <space> -2 2 2 -2 0 <space> 2 3 -1 -2 <space>
+035v_CH-E-611.s22 <space> c4 <space> -5 2 2 1 <space> -3 -2 -3 <space> 0 3 -2 0 0 -1 <space> 8 <space> 2 -2 0 -3 2 1 -1 -2 0 -2 <space> 5 -1 -2 0 <space> 0 3 -1 <space> 3 -2 0 0 -1 <space> 1 <space>
+035v_CH-E-611.s24 <space> c4 <space> 3 0 0 2 -3 1 -3 2 1 -1 <space> -2 -2 2 <space> 3 0 -1 1 -3 3 -3 -2 <space> 2 0 -2 0 -2 <space> 0 -3 <space>
+035v_CH-E-611.s26 <space> c3 <space> -2 2 3 2 0 <space> -2 2 3 -3 <space>
+035v_CH-E-611.s28 <space> c3 <space> 3 -1 -2 3 <space> -1 -4 2 <space> 3 -1 1 -1 -2 2 1 -3 <space> 0 2 1 -1 <space> 0 0 -2 -2 2 <space> -2 2 -3 1 <space> 4 -5 <space> -2 2 1 2 -2 <space> 0 -1 -2 3 -5 2 <space> 3 -5 <space>
+035v_CH-E-611.s2 <space> c4 <space> -2 5 2 2 0 -2 <space> -3 1 2 -2 <space> 0 -5 2 <space> 3 -1 -2 0 <space> 7 0 -2 -2 <space> 2 2 -2 <space>
+035v_CH-E-611.s30 <space> c3 <space> -2 0 -2 4 <space> -4 4 3 0 -1 <space> 1 2 -5 2 <space> 1 -1 -2 -2 2 3 -3 <space> -2 0 0 <space> 5 -1 <space> 3 2 -4 -1 <space> -4 2 2 -2 <space> 0 0 -2 <space>
+035v_CH-E-611.s32 <space> c3 <space> 2 1 -1 -2 -2 2 -2 0 -1 <space> 1 0 <space> 0 0 0 0 2 -3 1 2 <space> -2 2 0 0 <space> 2 1 -1 1 -3 <space> -2 2 -2 0 -1 <space> 1 2 -2 <space>
+035v_CH-E-611.s4 <space> c4 <space> -3 3 -1 -2 <space> 2 1 2 -2 0 <space> 0 0 -5 2 <space> 0 -2 2 3 <space> 0 0 0 0 <space>
+035v_CH-E-611.s6 <space> c4 <space> -1 -2 3 -1 <space> 5 -2 2 3 <space> -3 -2 -3 <space> 1 -1 -2 0 <space> 0 2 1 2 <space> 2 -2 2 2 -2 0 <space> -2 -2 2 <space>
+035v_CH-E-611.s8 <space> c4 <space> 0 2 -2 -1 -2 <space> -2 2 0 <space> 7 0 -2 -2 <space> 2 0 2 <space> -5 -2 <space> 3 -1 -2 2 1 2 <space> -2 <space>
+038v_CH-E-611.s0 <space> c4 <space> 2 0 -2 <space> 4 3 0 -3 <space> 3 -3 -2 2 <space> 3 -5 0 -2 -1 <space> -2 3 2 <space> 2 -2 0 <space> 5 0 -1 <space> 1 -3 -2 2 -2 <space>
+038v_CH-E-611.s10 <space> c4 <space> 0 0 0 0 0 0 <space> 0 0 0 0 -1 -2 -2 2 2 1 -3 <space> -4 <space> -5 2 0 <space> 5 0 <space>
+038v_CH-E-611.s12 <space> c3 <space> 3 -2 <space> 2 0 -3 3 2 <space> -2 0 -5 <space> 3 -1 -4 <space> 4 1 -3 -2 <space> 2 -2 -2 4 3 <space> -1 <space>
+038v_CH-E-611.s14 <space> c3 <space> 1 -3 0 -2 0 <space> 5 0 -1 <space> 1 -3 -2 <space>
+038v_CH-E-611.s16 <space> f3 <space> -5 3 <space> 5 -3 0 <space>
+038v_CH-E-611.s18 <space> f3 <space> -2 2 3 0 2 -2 <space> -1 -2 3 -3 -2 2 0 <space> 0 3 2 2 -2 0 <space> -5 3 0 <space> 2 -2 -1 -2 3 -3 -2 2 0 <space> 3 <space>
+038v_CH-E-611.s20 <space> c4 <space> 2 0 0 -2 <space> 2 -2 -2 2 2 <space> -4 -1 <space> -4 2 3 <space> -1 -2 -2 2 0 <space> 2 1 2 0 2 -2 -2 <space> 0 -1 -2 3 <space>
+038v_CH-E-611.s22 <space> c4 <space> -2 -1 1 -3 -2 <space> 2 0 3 <space> 2 2 0 0 -2 <space> 2 -4 2 0 <space> 0 0 2 0 -2 <space> -2 2 -2 -1 -2 <space> 0 3 -3 0 -2 <space> 0 4 <space>
+038v_CH-E-611.s24 <space> c4 <space> 2 0 2 -2 -2 -1 -2 <space> -2 2 3 -1 -2 <space> 0 7 0 -2 <space> -2 2 <space> 4 -4 0 <space> -2 0 4 0 <space> -2 -2 2 2 -2 -2 <space> 0 0 2 0 <space>
+038v_CH-E-611.s26 <space> c4 <space> 0 4 -2 <space> 0 2 0 0 <space> 0 0 0 0 -2 <space> -2 2 2 <space> 2 -4 <space> 5 0 0 <space>
+038v_CH-E-611.s28 <space> c4 <space> 0 0 0 0 0 -1 -2 -2 2 2 1 -3 <space>
+038v_CH-E-611.s2 <space> c4 <space> -1 -2 3 0 -1 -4 <space> -2 -3 2 1 2 -2 <space> -3 2 1 2 <space> -2 -1 -2 3 <space>
+038v_CH-E-611.s30 <space> c3 <space> -5 1 2 0 <space> 2 -2 -2 4 3 <space> 0 0 2 2 -2 <space> 2 -4 0 <space>
+038v_CH-E-611.s32 <space> c3 <space> -2 0 <space> 5 -2 -1 1 <space> -3 -2 2 3 <space> -5 0 -2 2 <space> 2 -2 2 -2 -2 2 2 <space> 0 0 5 <space> -2 -1 3 <space> -5 <space>
+038v_CH-E-611.s4 <space> c4 <space> 0 4 0 -2 <space> -2 2 0 0 <space> 0 -5 5 <space> -2 -1 0 <space> 5 -2 2 3 <space> -5 -3 <space> 8 <space> 0 0 0 0 0 0 <space> 0 -1 -2 -2 <space>
+038v_CH-E-611.s6 <space> c4 <space> 0 0 2 <space> 1 -3 -2 0 <space> 2 0 0 -2 <space> -2 2 -2 2 2 -2 <space> 2 -5 1 2 <space> -2 -3 -2 2 0 <space>
+038v_CH-E-611.s8 <space> c4 <space> 0 3 2 <space> -5 -2 2 0 <space> 0 -2 2 0 <space> -2 -2 2 -2 <space> 2 0 0 <space> 2 -4 -1 <space> 1 2 -2 -3 <space> 0 7 0 0 <space> -2 -2 2 0 2 <space>
+040r_CH-E-611.s0 <space> c4 <space> 0 -1 1 -3 -2 <space> -5 0 0 <space> 0 2 -2 2 <space> 0 -2 0 <space> 0 0 0 2 -2 2 <space>
+040r_CH-E-611.s10 <space> c3 <space> 2 -7 <space> -2 4 3 0 -3 <space> -2 2 0 3 <space> 2 2 1 -3 -2 <space> -1 1 -3 -2 <space> 4 1 -3 -2 0 <space>
+040r_CH-E-611.s12 <space> c3 <space> 0 2 -2 0 -2 2 <space> -7 <space> 0 7 0 0 <space> 0 -2 0 -1 <space> 3 2 -2 -2 2 <space> -2 2 -7 <space> -2 4 <space>
+040r_CH-E-611.s14 <space> c3 <space> -1 -2 -2 2 0 3 <space> 2 2 1 -3 -2 <space> -1 1 -3 -2 <space> 4 1 -3 -2 0 <space> 7 0 2 <space> -2 0 -2 2 <space>
+040r_CH-E-611.s16 <space> c3 <space> 7 0 0 <space> 0 -2 -1 <space> 3 2 -2 -2 2 0 <space> -7 -2 <space> 4 3 -1 -2 <space> -2 2 0 3 <space> 2 2 <space>
+040r_CH-E-611.s18 <space> c3 <space> -3 -2 -1 <space> 1 -3 -2 <space> 4 1 -3 -2 <space> 7 0 2 <space> -2 0 -2 2 <space> -7 7 <space> 0 0 0 -2 <space> 0 -1 <space>
+040r_CH-E-611.s20 <space> c3 <space> 2 -2 -2 2 -2 <space> 2 -7 <space> 0 -2 4 3 <space> -1 -2 -2 2 0 3 <space> 2 3 -1 -2 -2 <space> -1 1 -3 <space>
+040r_CH-E-611.s22 <space> c3 <space> 4 1 -3 -2 <space> 7 0 2 <space> -2 0 -2 2 <space> -7 <space> 0 7 0 0 <space> 0 -2 0 2 <space> 2 -2 0 2 <space> -4 <space> -3 <space>
+040r_CH-E-611.s24 <space> c3 <space> -2 -2 0 <space> 0 0 7 0 -2 -1 <space> 1 2 0 -2 <space> 2 3 0 0 -1 <space> -2 2 -2 0 -2 <space> 5 0 -1 -2 -2 <space> 2 3 0 <space>
+040r_CH-E-611.s26 <space> c3 <space> 0 0 -1 -2 <space> 2 -2 -2 4 <space> 1 -1 -2 0 <space> 0 2 -4 -3 3 -3 -2 <space> 0 -2 4 3 <space> 0 -1 -2 3 <space> 2 <space>
+040r_CH-E-611.s28 <space> c3 <space> 0 0 2 -4 -3 <space> 2 -2 -2 0 <space> 7 0 2 <space> -2 0 -2 2 <space>
+040r_CH-E-611.s2 <space> c4 <space> 0 3 0 <space> 2 0 -4 0 -1 <space> -2 3 -3 -2 <space> 0 2 0 -2 <space> 5 -1 -2 0 <space> 3 0 0 -1 -4 <space> 2 0 <space>
+040r_CH-E-611.s30 <space> c4 <space> 3 -3 3 0 <space> 2 0 2 <space> -4 2 -2 0 <space> 0 -1 0 <space> 0 1 -1 <space> 1 -3 -2 <space> 5 2 0 <space> 2 -2 2 2 1 -3 -2 <space> 2 -2 2 -4 2 <space> 0 2 -4 2 2 <space> -4 0 2 <space> -2 -1 -2 <space> 7 0 -2 -2 <space> 2 2 -2 <space>
+040r_CH-E-611.s4 <space> c3 <space> 7 0 0 <space> 0 -2 -1 <space> 3 2 -2 -2 2 0 <space> -7 <space> 0 7 -2 <space> 0 -5 2 0 <space> 0 3 <space>
+040r_CH-E-611.s6 <space> c2 <space> 2 1 2 0 -2 <space> 2 -2 -1 -4 <space> 4 -4 2 <space> 2 1 -3 0 -2 <space> 0 0 0 0 2 2 -2 <space> -2 2 -3 <space>
+040r_CH-E-611.s8 <space> c3 <space> -3 -2 4 1 -3 <space> -2 7 0 2 -2 <space> 0 -2 2 <space> -7 7 <space> 0 0 0 -2 <space> 0 -1 3 2 <space> -2 -2 2 <space>
+046v_CH-E-611.s0 <space> c3 <space> 4 3 2 -2 -3 <space> 3 2 0 <space> -3 1 2 <space> -7 <space> 4 -2 -2 <space> 2 3 -1 <space> -4 5 <space> 0 2 -2 -1 1 -1 -2 -2 2 -2 <space> 4 -4 -2 <space> 2 0 -2 2 2 -2 <space> -2 4 3 <space> 2 0 -2 0 -1 -2 <space>
+046v_CH-E-611.s10 <space> c3 <space> 0 0 -1 1 2 -2 -1 1 -3 0 -2 <space> 2 3 0 -3 3 <space> 0 -1 1 -3 <space> 2 1 -3 <space> 2 -4 2 <space> 3 -3 0 -2 0 <space> -2 2 0 0 <space> 0 2 3 -3 -2 <space>
+046v_CH-E-611.s12 <space> c3 <space> 2 -2 -2 2 <space> -4 2 2 0 <space> 3 -1 1 2 -2 -1 -2 0 3 -3 -2 2 -2 <space> 0 2 -2 -2 <space>
+046v_CH-E-611.s14 <space> c4 <space> 0 -2 2 3 <space> 0 0 -1 1 -3 <space> 3 -3 -2 <space>
+046v_CH-E-611.s16 <space> c4 <space> 3 -1 -4 2 3 2 -2 0 -1 <space> -2 2 1 -1 -2 <space> 2 1 -3 0 <space> 3 2 2 -2 2 -2 <space> -2 -1 1 2 -2 -1 <space> 1 2 -2 2 -2 0 -1 <space> -2 2 1 -3 0 <space>
+046v_CH-E-611.s18 <space> f3 <space> 0 0 0 3 -3 <space> 0 3 -1 -4 2 <space> 3 -1 1 2 -2 0 -1 -2 2 -2 -2 0 2 <space> 3 0 -1 -2 -2 2 <space> 3 -3 3 <space> -5 2 -2 <space> 2 -2 -3 3 2 <space> 3 0 0 -1 -2 -2 <space> 2 3 <space>
+046v_CH-E-611.s20 <space> f3 <space> 3 2 -3 1 0 -1 <space> -2 2 1 -1 -2 <space> 2 1 -3 0 -2 2 <space> 3 0 2 -2 <space> 2 2 -2 -2 2 -2 <space> 0 0 0 0 0 2 <space>
+046v_CH-E-611.s22 <space> f3 <space> 0 0 -1 1 2 -3 1 <space> -3 2 1 -1 <space> 1 -3 0 -2 2 <space> 0 0 0 0 0 2 <space> 1 -1 -2 -2 <space> 2 3 -1 1 2 -2 <space> 0 -1 -2 3 -3 -2 <space> 2 0 3 <space>
+046v_CH-E-611.s24 <space> c4 <space> 0 -3 3 2 -2 -1 1 0 -1 <space> -2 5 <space> -2 0 -3 3 <space> 4 0 -2 <space> 2 0 -2 2 <space> 0 -2 -2 2 2 <space> 3 -5 2 -2 -3 1 2 <space> -3 3 -3 <space> 1 <space>
+046v_CH-E-611.s26 <space> c4 <space> -3 3 -1 <space> 1 2 2 -2 0 <space> 0 -5 3 2 2 <space> 0 -2 -2 2 2 <space> 3 -1 -4 2 <space> 3 -3 0 -2 0 <space> -2 2 2 -2 <space> 4 -4 <space> -3 3 2 -2 0 <space> -3 3 2 3 -3 -2 <space> -2 2 2 -4 <space>
+046v_CH-E-611.s28 <space> c4 <space> -1 -2 3 -3 3 <space> 2 2 -2 2 -2 -2 0 <space> 2 2 -2 2 -2 <space> -5 2 <space> 1 -1 3 <space> -3 1 <space> 0 -1 <space> 5 0 -2 <space> -2 2 2 -2 2 -2 -3 1 -1 <space> 3 0 0 <space> 4 -4 -2 <space>
+046v_CH-E-611.s2 <space> c3 <space> -3 3 -5 2 <space> -2 -3 1 2 <space> -2 2 2 -2 -2 2 2 -2 <space> -2 2 0 0 <space> 2 -2 0 <space> 5 0 0 <space> 0 2 -2 -1 1 -3 0 -2 <space>
+046v_CH-E-611.s30 <space> c4 <space> 2 -2 -3 0 <space> 1 0 <space> -3 3 2 2 -2 <space> 0 0 0 2 -2 <space> -2 -1 1 2 -2 0 -1 <space> 1 -3 3 <space> 0 0 0 0 <space>
+046v_CH-E-611.s4 <space> c3 <space> 3 0 0 -3 <space> 2 1 -3 3 <space> -5 0 <space> 4 1 -3 0 <space> -2 0 -2 2 0 0 <space> 0 2 3 -3 -2 2 2 -2 -2 2 -4 2 2 <space> 0 3 -1 1 2 <space> -2 -1 -2 0 <space> 3 -3 -2 2 -2 <space>
+046v_CH-E-611.s6 <space> c3 <space> 2 -2 -2 2 0 <space> 5 2 -2 -1 <space> 1 2 -3 3 <space> -2 0 -3 3 <space> 0 0 -1 -2 3 <space> 0 0 -1 -2 2 1 <space> -1 -2 -2 0 2 3 -3 -2 <space> 0 2 0 -2 <space>
+046v_CH-E-611.s8 <space> c4 <space> 2 -2 -2 2 2 -2 <space> 2 -2 2 -2 2 3 0 2 -3 1 0 -1 <space> 3 -2 <space> -3 0 3 <space> -5 2 0 -2 -2 <space> 0 -3 3 -3 <space> 5 0 2 <space> 3 -1 -2 2 1 -1 -2 -2 <space> 2 3 -3 -2 2 0 -2 <space>
+048r_CH-E-611.s0 <space> c3 <space> 2 2 -2 -2 2 0 -2 <space> 7 0 0 <space> 0 2 -2 0 -3 3 -3 <space> 3 0 0 0 0 <space> 0 2 -2 0 0 <space> 2 -2 0 -3 3 <space> 0 0 -1 1 2 -2 <space> 2 <space>
+048r_CH-E-611.s10 <space> c4 <space> 2 -7 3 0 <space> -1 1 -1 <space> 3 2 -2 2 2 -2 <space> -2 -2 2 2 -2 -2 2 0 <space> -2 0 4 3 <space> 2 -2 0 <space> 4 -4 0 <space> -3 2 <space> -4 2 2 <space> 1 -1 0 -2 <space> 2 0 -2 <space>
+048r_CH-E-611.s12 <space> c3 <space> -3 3 -5 -2 4 -4 2 2 3 0 -1 3 3 -3 -2 0 2 -2 0 -3 3 -3 <space> 3 -3 3 0 <space> 2 -2 0 -3 3 -5 2 -2 0 -2 <space> 0 2 2 -2 2 <space> 2 -2 <space> 3 -3 0 -2 2 0 <space> 0 3 -3 0 -2 <space>
+048r_CH-E-611.s14 <space> c3 <space> 2 -2 -2 -2 0 <space> 4 -2 -2 2 0 <space> -2 7 0 2 -2 <space> 0 -3 3 -3 <space> 3 0 0 -3 <space> 3 2 -3 1 0 -1 <space> 1 2 -2 2 0 -2 <space> -5 -2 <space> 4 3 <space>
+048r_CH-E-611.s16 <space> c3 <space> -1 1 -1 1 <space> 0 2 -2 -1 1 <space> 2 -2 -1 -2 2 0 -2 <space> -4 4 3 0 <space>
+048r_CH-E-611.s18 <space> c4 <space> 0 2 -2 <space>
+048r_CH-E-611.s20 <space> c4 <space> 2 3 -3 0 -2 <space> -2 2 2 0 -2 <space> 5 0 -3 <space> 3 0 -5 <space> 5 2 -2 <space> 0 -1 -4 2 2 <space> -2 -2 -2 2 0 <space>
+048r_CH-E-611.s22 <space> c4 <space> 0 -1 1 -3 -2 -2 <space> 0 2 -2 0 -3 3 -3 <space> 0 3 0 <space> 2 0 2 -2 <space> 5 -5 2 3 -3 <space> -4 4 -2 <space>
+048r_CH-E-611.s24 <space> c4 <space> -2 0 -1 1 0 -1 <space> 1 2 2 0 -2 <space> 2 -2 -2 2 -2 <space> -3 2 1 2 -3 1 -1 1 0 -3 3 <space> 2 2 0 -2 0 <space> 0 -5 3 <space> -1 1 -1 1 <space> 0 -1 0 <space> 1 2 2 <space>
+048r_CH-E-611.s26 <space> c4 <space> 0 2 -2 -2 -1 1 2 -2 <space> -3 3 -3 <space> 2 1 -1 -4 2 <space> 3 0 0 0 0 <space> 0 0 -1 1 -3 <space> 5 -2 2 2 -2 2 0 -2 <space> 0 0 2 0 -2 <space> 0 <space>
+048r_CH-E-611.s28 <space> c4 <space> 2 2 -2 -2 -1 1 <space> 0 -1 <space> 5 -2 2 <space> -2 -2 2 2 -2 2 -2 -3 1 -1 <space> 3 0 2 -2 0 <space> 0 2 -2 0 -2 2 <space> 2 -2 -2 <space>
+048r_CH-E-611.s2 <space> c3 <space> -2 0 0 <space> -1 1 -1 1 -3 3 2 <space> -2 -1 1 2 -2 -1 <space> -2 2 0 -2 <space> 0 3 0 <space> 0 0 <space> -7 <space> 0 4 3 <space> -3 3 2 -2 2 <space>
+048r_CH-E-611.s30 <space> c4 <space> 1 2 -2 0 0 -1 <space> 3 0 2 <space>
+048r_CH-E-611.s32 <space> c3 <space> 0 0 2 3 <space> -3 2 -2 -2 0 <space> 5 -1 1 2 -2 2 2 -2 2 0 -2 <space> 2 1 -3 0 -2 <space> -1 1 -1 -2 <space> 3 -1 <space>
+048r_CH-E-611.s4 <space> c3 <space> -3 1 <space> 0 -3 2 <space> -2 -2 0 4 <space> -2 2 1 <space> 0 0 -3 <space> 2 -2 2 0 <space> -2 -4 <space> 2 2 -2 2 0 <space> 0 0 0 3 -3 0 -2 <space> 2 0 3 -3 -2 <space> 2 2 -2 -2 <space>
+048r_CH-E-611.s6 <space> c3 <space> 2 2 -2 -2 2 0 -2 <space> 0 2 2 0 -2 <space> 2 -2 2 0 <space> -2 2 2 -2 <space> -4 4 3 0 <space> 0 2 -2 0 0 <space> 2 -2 -1 <space>
+048r_CH-E-611.s8 <space> c3 <space> 0 2 1 <space> 0 -1 0 -2 <space> 2 0 -2 <space> -4 2 2 0 0 <space> 3 -3 0 -2 <space> 2 2 -2 <space> 3 -3 0 -2 <space> 2 2 -2 -2 -2 <space> 2 2 -2 -2 2 0 -2 <space> 0 2 2 0 <space> -4 2 <space>
+054v_CH-E-611.s0 <space> c3 <space> -2 0 -3 3 <space> -5 2 -2 0 <space> -2 0 2 2 <space> 0 2 -4 2 2 <space> -2 0 <space> 3 -1 -2 -2 2 2 -2 -2 -2 2 2 -2 -2 2 0 -2 <space> 4 2 -2 -2 <space> 2 2 -2 <space> -4 2 2 <space>
+054v_CH-E-611.s10 <space> c4 <space> -2 -1 1 2 0 0 <space> -2 0 -1 -2 3 2 -2 2 -2 -1 -2 2 1 -1 -2 2 1 -3 <space> 0 3 2 2 <space> -4 2 2 -2 -2 <space> 0 2 2 -4 0 <space> -3 2 1 -1 -2 <space> 2 1 -3 <space>
+054v_CH-E-611.s12 <space> c4 <space> 2 2 1 0 <space> 0 0 -5 2 3 0 -1 1 2 -2 2 2 -2 <space> 2 -4 2 -2 2 -2 -1 -2 <space> 0 3 2 -2 0 -1 <space> -2 2 1 -1 -2 <space> 2 1 -3 <space> 7 0 -2 2 <space> -2 0 -2 <space>
+054v_CH-E-611.s14 <space> c4 <space> 0 0 0 0 0 2 <space> -2 0 0 2 -2 0 <space> 2 -4 2 2 -2 2 <space> 0 2 -2 0 0 <space> -2 2 0 3 -3 0 <space>
+054v_CH-E-611.s16 <space> c4 <space> 0 3 -3 0 <space> 0 0 0 -2 2 -2 <space> 2 -4 0 2 2 -2 <space> 2 2 -2 0 -2 <space> -2 -1 3 <space> 2 -2 -2 <space> -5 2 0 <space> 3 2 2 -2 0 0 <space> 0 <space>
+054v_CH-E-611.s18 <space> c4 <space> 2 -2 0 0 0 <space> -2 2 -2 2 2 <space> -4 -1 -2 <space> 3 -5 2 3 -1 1 -1 -2 <space> 0 -2 5 2 <space> 2 -2 2 -2 0 <space> 0 2 -2 0 2 <space> 3 -1 -2 2 1 -1 -2 -2 <space>
+054v_CH-E-611.s20 <space> c4 <space> 2 3 -3 -2 2 0 -2 <space> 2 -2 -2 2 2 <space> 3 2 -2 -1 1 2 -2 <space> -3 -2 -2 4 <space> 3 -1 1 2 -2 0 -1 -2 2 <space> -2 0 0 -2 <space> 0 2 -2 0 0 <space>
+054v_CH-E-611.s22 <space> c4 <space> 2 2 -4 -1 -2 3 -5 2 3 -1 1 -1 -2 <space> 5 0 2 -2 -2 2 2 -2 <space> 0 2 3 -1 -2 2 1 -1 -2 -2 2 3 -3 -2 2 0 -2 <space> 5 0 -1 <space> 1 2 -2 -1 1 -3 <space> 0 -2 2 3 <space>
+054v_CH-E-611.s24 <space> c3 <space> 0 0 0 -3 <space> 2 1 -3 3 -5 0 2 <space> 2 -2 0 -2 0 -2 <space> 2 0 0 2 -2 0 <space> 0 0 0 0 2 -2 <space> 2 3 -3 -2 2 2 -2 <space>
+054v_CH-E-611.s26 <space> c3 <space> 2 -4 2 2 0 3 -1 1 2 -2 -1 -2 0 3 -3 -2 2 -2 <space> 2 -2 -2 <space> 6 <space> -2 0 0 2 <space> 0 1 <space> 0 -1 -2 2 1 -1 -2 <space> -2 2 2 <space>
+054v_CH-E-611.s28 <space> c4 <space> -2 0 4 0 <space> 3 -3 0 0 <space> 0 -2 -2 2 2 0 <space> -2 -5 3 <space> -3 0 <space>
+054v_CH-E-611.s2 <space> c3 <space> 0 -3 3 2 -2 -1 1 0 -1 <space> 1 2 -2 2 0 -2 <space> -3 5 <space> -2 -1 -2 -2 2 0 <space> 3 0 -1 <space> 0 -2 -2 2 0 <space> 2 1 -1 -2 2 0 <space> -2 -4 <space> 0 2 2 0 <space> 2 -2 -2 <space>
+054v_CH-E-611.s30 <space> c4 <space> 3 2 -2 <space> 4 0 -2 <space> -2 2 2 -2 2 <space> -4 -1 -2 <space> 0 2 1 2 <space> -2 2 -2 0 -1 <space> 1 2 -2 -1 -2 0 <space> -2 2 <space>
+054v_CH-E-611.s4 <space> c3 <space> 2 1 -1 -2 -2 2 2 -2 -2 -2 2 2 -2 -2 2 0 -2 <space> 7 0 2 <space> -2 0 -3 3 <space> -3 3 0 2 -2 <space> 0 -3 3 2 -3 1 <space> 0 -1 1 2 -2 2 0 -2 <space> -7 <space> 4 3 <space>
+054v_CH-E-611.s6 <space> c3 <space> 0 0 -1 1 -1 1 -3 <space> 3 2 -2 -1 1 2 -2 <space> -1 -2 2 0 <space> -2 0 2 <space>
+054v_CH-E-611.s8 <space> c4 <space> 2 0 7 3 -3 0 <space> -4 0 2 <space> 2 -2 2 -4 2 <space> 2 -2 -2 2 2 <space>
+057v_CH-E-611.s0 <space> c4 <space> -1 -2 0 -2 <space> 2 <space> 7 0 -2 -2 <space> 2 2 <space> -9 <space> 2 3 2 0 <space> 2 -2 -2 2 0 2 <space>
+057v_CH-E-611.s10 <space> c3 <space> 7 0 2 <space> -2 -3 3 0 0 <space> 0 0 2 -2 0 -1 1 <space> -3 3 0 -5 <space> 0 5 0 <space> -1 1 -3 -2 0 <space> 2 3 0 0 0 <space> 0 0 2 2 -2 <space> 0 -2 0 2 <space> 2 0 -4 2 2 <space> 0 -2 -2 2 0 <space> -5 5 <space> -2 -1 <space>
+057v_CH-E-611.s12 <space> c4 <space> -2 2 -2 -2 2 2 <space> 2 1 -1 <space> 1 2 -2 -1 -2 0 <space> 2 -2 2 3 <space> -5 <space> -4 4 <space> -9 <space> 2 3 0 <space>
+057v_CH-E-611.s14 <space> c4 <space> 4 1 -3 3 <space> 2 0 -2 2 -2 -3 <space> 3 -1 1 -3 0 -2 <space> 2 3 0 0 2 -2 <space> 2 2 <space>
+057v_CH-E-611.s16 <space> c4 <space> -1 -2 0 0 <space> 3 2 -2 2 -2 -3 <space> 3 0 -3 3 <space> -5 0 5 <space> 2 2 -2 2 -2 <space>
+057v_CH-E-611.s18 <space> c4 <space> 2 0 2 <space> -4 0 <space> 4 3 0 -3 <space> 3 -5 2 -2 2 <space> -2 -2 -1 <space> 3 0 2 <space> -4 0 0 <space> 0 <space>
+057v_CH-E-611.s20 <space> c4 <space> 0 -3 0 -2 <space> 2 3 -1 -2 0 <space> 7 0 0 <space> -2 -2 2 2 -2 -2 <space> -1 -2 -2 2 3 -1 <space> -2 3 2 <space>
+057v_CH-E-611.s22 <space> c4 <space> -2 2 2 -2 -2 0 <space> 2 -2 0 2 <space> -3 1 -3 3 <space> 0 -5 <space> 4 1 2 <space> -2 -3 -2 2 0 <space> 7 0 0 <space> -2 -2 2 2 -2 -2 <space> -3 <space>
+057v_CH-E-611.s24 <space> c3 <space> 2 3 0 2 0 <space> -2 2 2 -4 <space> 2 2 -2 0 <space> -5 5 <space> -2 -1 -2 -2 2 <space> -2 0 2 0 <space>
+057v_CH-E-611.s26 <space> c3 <space> -3 0 <space> 5 -2 2 3 <space> -5 -3 <space> 3 -5 2 3 <space> 0 2 0 -2 2 <space> 2 -2 -2 2 0 <space> -5 5 <space>
+057v_CH-E-611.s28 <space> c3 <space> -1 -2 -2 2 -2 -2 2 2 <space> 3 -3 -2 2 0 <space> 5 -2 2 3 <space> -5 -3 <space> 3 -3 -2 2 3 0 <space> 2 0 <space>
+057v_CH-E-611.s2 <space> c4 <space> -1 -2 -2 2 0 <space> 7 0 -2 -2 <space> 2 2 -2 <space> -7 2 <space> 3 2 0 2 <space> -2 -2 2 2 -2 2 <space>
+057v_CH-E-611.s4 <space> c4 <space> -2 0 0 -1 3 <space> -2 -1 -2 -2 2 0 <space> 7 0 -2 -2 <space> 2 2 -2 -2 -1 -2 <space> 3 0 -3 3 0 <space> 0 -5 2 3 0 <space> -1 1 <space>
+057v_CH-E-611.s6 <space> c4 <space> -1 -2 3 -3 <space> 0 0 -2 5 <space> -1 -2 -2 2 0 3 <space> 0 0 -1 -4 2 <space> 0 <space>
+057v_CH-E-611.s8 <space> c3 <space> 0 0 5 -3 -2 5 <space> 0 0 2 -2 0 -3 3 -1 <space> 1 -3 -2 2 3 <space> -5 -2 0 <space> 0 2 2 0 -2 <space> 2 -2 0 <space>
+060r_CH-E-611.s0 <space> c4 <space> 2 4 0 -2 2 -2 -2 2 -2 <space> 4 -2 2 <space> 1 <space> 4 -4 0 <space> 0 0 0 -1 -2 -2 <space> 2 -4 2 2 -2 <space> 0 -2 0 -3 <space> 3 0 0 0 <space> 2 2 -4 <space>
+060r_CH-E-611.s10 <space> c4 <space> 2 2 -2 2 <space> -4 2 -2 0 <space> -1 1 2 -2 -1 -2 0 <space>
+060r_CH-E-611.s12 <space> c4 <space> 0 -2 -2 2 0 <space> 2 -2 0 0 <space> 2 0 -2 0 0 <space> 2 -2 -2 2 2 0 <space> -4 4 3 <space>
+060r_CH-E-611.s14 <space> c3 <space> -3 1 -3 -2 2 -2 <space> 0 0 0 0 -2 <space> 2 2 0 -2 5 0 <space> -1 1 -3 -2 0 <space> 4 <space>
+060r_CH-E-611.s16 <space> c3 <space> 2 0 2 <space> -4 2 <space> -3 1 2 2 -2 <space> -2 -1 -2 2 -2 <space> -2 2 -4 2 0 <space> 2 3 -1 1 0 <space> -3 -2 2 0 -2 <space>
+060r_CH-E-611.s18 <space> c3 <space> 7 0 2 <space> -2 -2 -1 -2 <space>
+060r_CH-E-611.s20 <space> c4 <space> 3 -3 -2 2 <space> 3 2 -2 -1 -2 <space> 3 -5 2 0 <space> -2 2 3 <space>
+060r_CH-E-611.s22 <space> c4 <space> 2 0 -2 <space> 4 -2 2 -4 <space> -1 -2 2 1 -1 <space> -2 -2 2 0 -2 <space> 0 2 3 0 <space> 2 -2 2 2 -2 -2 -1 -2 <space> -2 2 <space>
+060r_CH-E-611.s24 <space> c4 <space> 2 3 0 0 2 -2 <space> 0 2 -3 1 <space> -3 <space> 7 0 0 <space> -2 -2 2 2 -2 <space>
+060r_CH-E-611.s26 <space> c3 <space> 2 3 0 0 <space> 2 2 -2 0 -2 -1 -2 <space> 2 1 -3 -2 0 <space> 2 -2 -2 4 3 <space> -3 2 -2 -2 0 <space> 7 0 2 <space> -2 -2 -1 -2 <space>
+060r_CH-E-611.s28 <space> c3 <space> 0 0 -5 0 <space> 2 0 -2 0 0 <space> 2 3 -1 -2 2 1 -3 <space> -4 4 <space>
+060r_CH-E-611.s2 <space> c4 <space> -2 0 2 4 <space> -2 -2 2 2 -2 -2 <space> 0 2 -2 -2 2 -2 0 <space> 4 <space>
+060r_CH-E-611.s30 <space> c3 <space> -2 0 <space> 5 0 0 -1 <space> 1 -3 -2 <space>
+060r_CH-E-611.s32 <space> c4 <space> -2 -3 2 1 2 2 <space> 0 -2 2 2 <space> 1 -1 -2 -2 -2 <space> 2 2 0 <space>
+060r_CH-E-611.s34 <space> c4 <space> 0 5 0 <space> 0 -1 1 -3 -2 <space> -5 3 2 0 <space> 0 -2 2 -2 <space>
+060r_CH-E-611.s4 <space> c3 <space> -2 -1 3 <space> -2 -1 3 <space> 2 -4 2 -2 <space> 2 -7 2 -2 <space> -2 2 2 0 0 <space> 5 -3 1 -3 -2 -2 <space> 2 2 0 -2 <space>
+060r_CH-E-611.s6 <space> c3 <space> 7 0 2 <space> -2 -2 -1 1 <space> 0 0 -1 -2 -2 2 <space> 3 -3 -2 2 -2 -2 <space> 2 2 0 3 <space> 0 -1 -2 -2 2 3 -3 -2 <space> 0 <space>
+060r_CH-E-611.s8 <space> c3 <space> 2 2 0 -2 5 0 <space> -1 1 -3 -2 2 <space>
+060v_CH-E-611.s0 <space> c4 <space> 2 1 2 0 0 <space> 0 0 0 -2 2 <space> 2 0 -2 0 <space> -7 2 <space> 3 0 0 0 <space> 2 0 2 -2 <space>
+060v_CH-E-611.s10 <space> c4 <space> 2 1 2 0 -2 <space> 0 -1 -2 0 3 <space> 2 2 -2 -2 2 -2 <space> 0 -3 3 2 2 <space>
+060v_CH-E-611.s12 <space> c4 <space> -2 0 0 <space> 0 -1 1 2 -2 -1 <space> -2 0 7 <space> 0 0 -2 -2 2 2 <space> -2 -2 <space>
+060v_CH-E-611.s14 <space> c4 <space> -1 -4 0 5 -3 <space> 0 3 2 -2 <space> 4 3 -3 <space> -2 -2 -1 1 2 -2 2 -2 <space> -1 1 2 -2 -1 <space> -4 2 3 <space> -1 -2 -2 2 0 <space>
+060v_CH-E-611.s16 <space> c4 <space> 0 0 -1 <space> -7 <space> 5 0 <space> 5 0 -2 0 <space> 0 2 2 -2 0 <space> 0 0 0 2 -2 <space> -2 2 2 0 3 0 <space> -1 1 <space> 4 -4 <space>
+060v_CH-E-611.s18 <space> c4 <space> 0 -1 -2 0 <space> 5 -2 0 -3 <space> -2 5 -3 <space> 3 -3 -2 -2 2 0 <space> -2 -1 1 2 0 -2 <space> 2 0 5 0 <space> -1 1 -3 -2 <space>
+060v_CH-E-611.s20 <space> c3 <space> 2 1 2 2 -2 -2 <space> -1 -2 3 2 -2 <space> 0 2 -3 1 <space> -3 -2 2 -2 <space> -2 2 2 0 <space> 5 2 <space>
+060v_CH-E-611.s22 <space> c3 <space> -3 2 -2 -2 0 <space> 7 0 2 <space> -2 -2 -1 <space>
+060v_CH-E-611.s24 <space> c4 <space> 0 0 -2 5 2 <space> -2 2 2 0 <space>
+060v_CH-E-611.s26 <space> c4 <space> -2 -2 0 -2 <space> 4 -2 0 -3 <space> 3 2 -2 0 -3 <space> 1 2 -3 1 <space> -3 0 <space> 7 0 0 <space> -2 -2 2 2 -2 <space>
+060v_CH-E-611.s28 <space> c3 <space> 0 0 4 <space> 1 2 0 2 <space> -4 2 -2 -1 <space> 1 2 -2 -1 -2 -2 <space> 0 2 3 -1 <space>
+060v_CH-E-611.s2 <space> c4 <space> -1 -2 3 0 2 -2 0 -5 0 <space> 0 2 3 0 <space> 0 0 2 2 -2 <space> 0 0 2 0 -2 <space> 0 -3 1 2 <space> 0 2 -5 <space> 1 2 0 0 <space>
+060v_CH-E-611.s30 <space> c3 <space> 2 1 2 <space> -3 1 2 -2 <space> -3 -2 0 <space> 7 0 2 <space> -2 -2 -1 -2 <space> -4 2 2 <space> -4 2 0 <space>
+060v_CH-E-611.s4 <space> c3 <space> -2 2 -2 -2 2 -2 <space> 4 -2 -2 2 0 <space> -2 4 3 <space> 2 0 0 <space> 2 -4 -1 -2 -2 <space> -2 2 0 2 <space> 2 -2 -2 0 <space>
+060v_CH-E-611.s6 <space> c4 <space> 5 -1 1 <space> -3 -2 <space> -5 3 2 2 -2 <space> -5 3 2 2 -2 0 <space> 2 -2 0 2 -2 2 <space> -4 0 4 -2 <space> -2 2 0 2 <space> 3 -3 2 -2 -2 0 <space> 5 0 -1 <space> 1 -1 -4 <space>
+060v_CH-E-611.s8 <space> c3 <space> 0 -1 1 2 -2 <space> 0 0 -3 -2 2 -2 <space> 0 2 0 -2 0 <space> 5 0 0 <space> 0 0 2 -2 <space>
+066v_CH-E-611.s0 <space> c4 <space> 3 4 <space> -4 -1 <space> 1 -3 0 <space> 3 -3 0 <space> 2 1 2 -2 0 <space> 2 -5 <space> 2 -2 0 0 -2 <space> 2 3 -5 2 <space> -5 1 2 0 <space> -3 1 -1 -2 0 <space> 2 1 2 2 -2 -2 2 2 -2 2 <space>
+066v_CH-E-611.s10 <space> c3 <space> 2 3 -3 -2 2 0 -2 <space> 5 0 0 <space> 2 -2 -1 1 -3 0 -2 <space> 2 3 0 0 -1 <space> -2 3 <space> 0 0 0 0 0 0 <space> 2 <space>
+066v_CH-E-611.s12 <space> c3 <space> 0 0 0 2 -2 0 <space> 0 -1 -2 2 1 -3 <space> 3 -5 2 2 -2 0 -2 <space> 0 -2 2 0 <space> 0 2 -2 2 <space> 3 -3 -2 2 2 -2 -2 2 -4 2 2 <space>
+066v_CH-E-611.s14 <space> c3 <space> 3 -1 1 2 -2 -1 -2 0 3 -3 -2 2 -2 <space> 5 0 -5 <space> 5 2 <space>
+066v_CH-E-611.s16 <space> c4 <space> 3 2 2 -2 0 0 <space> 0 0 2 3 <space> -3 0 -2 2 <space> 3 -5 2 -2 0 <space> -2 7 <space> 0 -1 -2 <space>
+066v_CH-E-611.s18 <space> c4 <space> 1 2 -2 -1 -2 2 1 -1 -2 <space> -2 2 3 -3 -2 2 -2 <space> 2 2 -2 <space> -4 2 2 -2 2 <space> -2 0 2 0 <space> -2 -2 0 2 2 -2 <space> -2 -1 1 -1 -2 3 -3 <space> 0 3 2 2 <space>
+066v_CH-E-611.s20 <space> c4 <space> 2 3 -5 2 -2 0 -2 <space> 0 4 3 -1 1 <space> 2 -2 -1 -2 2 1 -1 -2 -2 2 3 -3 -2 2 0 -2 <space> 5 0 0 -1 <space> 1 2 -2 -1 1 -3 <space> 0 -2 2 3 <space> 0 0 -3 <space>
+066v_CH-E-611.s22 <space> c3 <space> 1 -3 3 -5 2 2 -2 0 -2 <space> 0 -2 2 0 <space> 0 0 0 0 2 -2 <space> 0 0 0 2 3 -3 -2 2 2 -2 <space> -2 2 -4 2 2 <space> 0 3 -1 1 2 <space> -2 -1 -2 0 <space> 3 -3 -2 2 -2 <space>
+066v_CH-E-611.s24 <space> c3 <space> 2 2 -2 <space>
+066v_CH-E-611.s26 <space> f3 <space> -1 1 -3 -2 2 <space> 0 3 -3 0 -2 <space> 2 3 -1 <space> 0 1 2 <space> -3 3 -2 -1 -2 <space> 0 2 1 -1 -2 2 1 -3 <space> -2 2 <space>
+066v_CH-E-611.s28 <space> f3 <space> -1 1 2 -2 -1 1 -1 -2 3 -3 <space> 3 0 2 2 <space> 0 0 -2 -2 <space> -3 0 3 -1 <space> 3 -3 -2 0 <space> 3 -3 0 2 1 -1 -2 -2 2 <space> 3 -1 1 2 -2 0 -1 -2 2 -2 -2 <space> 2 <space>
+066v_CH-E-611.s2 <space> c3 <space> 2 1 -1 -2 2 1 -1 -2 -2 0 2 3 -3 -2 2 0 -2 <space> 5 0 0 <space> 2 -2 -1 1 -3 0 -2 <space> 2 3 0 0 0 <space> -1 0 1 <space> -3 3 -5 2 <space> 2 -2 0 -2 <space>
+066v_CH-E-611.s30 <space> f4 <space> 0 -1 1 -1 -2 3 0 <space> -3 0 -2 <space> -1 <space> 6 <space> -5 2 -2 <space> 2 3 -3 2 <space> 3 <space> -12 <space> 0 2 3 2 -2 <space> -5 2 <space> 2 -2 -2 -2 <space> 4 0 <space> 2 -4 <space>
+066v_CH-E-611.s32 <space> f3 <space> 2 3 0 2 <space>
+066v_CH-E-611.s34 <space> c4 <space> 0 2 2 -2 -2 0 <space> 2 -2 0 0 0 <space> 2 -2 0 0 -1 <space> 1 2 -3 1 -3 2 1 -1 <space> 0 -2 0 -2 <space> 2 0 0 0 <space> 3 -3 0 <space>
+066v_CH-E-611.s4 <space> c4 <space> 1 <space> 4 -4 <space> -10 <space> 5 -3 3 2 -2 0 <space> 2 0 -2 0 2 <space> 3 -5 0 -2 2 <space> 2 5 <space> -3 3 -5 -2 <space> 2 -2 -2 2 2 -2 0 <space> 0 <space>
+066v_CH-E-611.s6 <space> c4 <space> 3 -1 <space> 3 -5 0 <space> 0 0 0 <space> -4 4 <space> 0 3 -5 <space> 0 -2 2 2 -2 2 0 -2 <space> 5 0 -3 3 2 <space> 0 0 0 -3 <space> 1 2 -5 2 <space> -2 -2 -2 <space>
+066v_CH-E-611.s8 <space> c4 <space> 3 -3 0 -2 <space> 5 0 -3 <space> 3 -1 -2 -2 0 <space> 2 0 -2 2 -2 <space> 0 0 -2 2 -2 <space> 2 2 0 -2 2 <space> -4 -1 <space> 1 -1 -2 <space> 3 -3 3 <space> -1 1 2 0 0 <space> 2 3 -1 -2 2 <space> 3 -3 -2 <space>
+069r_CH-E-611.s0 <space> c4 <space> 0 0 -1 -4 2 <space> 0 3 <space>
+069r_CH-E-611.s10 <space> c3 <space> -2 2 3 2 0 <space> 0 2 -5 <space> 1 <space>
+069r_CH-E-611.s12 <space> c4 <space> -2 2 3 -3 0 <space> 0 -2 0 -2 2 2 <space> -2 2 -2 -3 1 <space> 2 -2 2 2 <space> -4 <space> -3 0 <space> 7 0 0 <space> -2 -2 2 2 -2 <space>
+069r_CH-E-611.s14 <space> c4 <space> 2 2 -2 2 -2 <space> -3 1 2 -2 <space> -3 0 0 <space> 3 0 -3 3 -1 -4 <space> 5 0 <space> 4 3 -5 2 <space> -2 -3 1 2 <space> -2 -1 <space>
+069r_CH-E-611.s16 <space> c4 <space> 0 7 0 -2 <space> -2 2 0 2 -2 <space> -2 2 2 0 -2 <space> 5 -5 2 <space> -2 2 -2 -3 1 <space> 2 -2 2 2 <space> -4 -1 <space>
+069r_CH-E-611.s18 <space> c4 <space> 3 -3 -2 2 0 <space> 5 -3 3 <space> 2 -4 -1 -2 3 0 -5 <space> 2 3 2 2 -2 2 -2 <space> -3 1 2 -2 -1 <space> -2 0 7 <space> 0 0 -2 2 -2 <space>
+069r_CH-E-611.s20 <space> c4 <space> 0 0 -2 -3 <space> 2 1 2 2 0 -2 <space> 0 0 2 -2 0 2 <space> 3 -5 2 -2 -2 <space> 2 <space>
+069r_CH-E-611.s22 <space> c4 <space> 0 0 2 -2 0 -2 <space> 2 2 3 0 -5 <space> 4 1 -3 0 <space> -2 0 5 0 -1 1 <space> -3 -2 <space>
+069r_CH-E-611.s24 <space> f3 <space> 0 0 -2 -1 -2 <space> 0 3 2 <space> 0 5 2 <space> -5 1 <space> -1 -2 -2 2 2 <space> 1 -3 -2 2 3 <space> 0 2 -2 <space> 4 -2 2 -4 <space> 0 -1 -2 -2 2 3 <space> 2 -2 -1 1 <space>
+069r_CH-E-611.s26 <space> c4 <space> 2 -2 0 0 <space> 7 -2 2 3 -3 -2 0 2 -2 -2 <space> -1 1 2 -2 2 -2 -1 <space> -4 2 3 <space> 0 4 -2 <space> 2 -2 0 0 -2 <space> -5 2 3 0 <space> 2 -2 -1 1 <space> -3 <space>
+069r_CH-E-611.s28 <space> f3 <space> 0 0 -2 -3 <space> 0 3 <space> 5 -5 2 3 -3 <space> 5 -2 2 0 <space> -7 2 <space> 3 -3 -2 0 2 <space> 3 0 2 -2 <space> 4 -2 2 <space> -5 1 <space> -1 -2 -2 5 <space> -5 2 -2 <space> 5 -1 <space> 3 4 <space> -6 0 <space> -1 -2 -2 2 3 <space> 2 -2 -1 1 <space> -3 <space>
+069r_CH-E-611.s2 <space> c3 <space> 2 3 2 0 <space> 0 -2 2 2 -2 0 <space> 0 -5 5 <space> -2 -1 <space>
+069r_CH-E-611.s30 <space> c4 <space> 0 7 -2 <space> 2 3 -3 -2 <space> 0 2 -2 -2 -1 1 2 -2 <space> 2 -2 0 -1 -4 2 3 <space> 0 0 4 -2 2 <space> -2 -2 2 0 -2 -1 <space> -4 2 3 <space> 2 -2 -1 1 <space> -3 <space>
+069r_CH-E-611.s32 <space> c4 <space>
+069r_CH-E-611.s34 <space> f3 <space> 0 5 -2 2 <space> 3 -3 <space> 5 -2 2 0 <space> -7 2 <space> 3 -3 -2 0 2 <space> 0 0 7 0 <space> 0 0 0 0 0 <space>
+069r_CH-E-611.s36 <space> c4 <space> 0 0 0 <space> -10 <space> 3 -3 -2 2 <space> 3 2 -2 -1 -2 <space> 3 -3 0 -2 <space> 5 <space> 4 -2 <space>
+069r_CH-E-611.s4 <space> c3 <space> -2 2 -2 -2 2 2 <space> 2 1 -1 -2 0 <space> 5 -2 2 3 <space> -5 -3 <space> 3 <space>
+069r_CH-E-611.s6 <space> c4 <space> 0 3 -3 0 <space> 3 2 <space>
+069r_CH-E-611.s8 <space> c4 <space> 4 0 <space> 0 0 3 -3 -2 <space> 2 -2 -3 1 2 -2 <space> -1 -2 0 <space>
+078r_CH-E-611.s0 <space> c3 <space> -1 1 -3 2 1 -1 -2 -2 <space> 2 0 -2 <space> 5 -1 1 2 2 -2 -2 -1 1 2 -2 <space> 2 0 -2 0 -1 <space> 1 2 2 -2 -2 <space> 2 0 -2 -3 3 -3 3 <space> -1 1 2 -2 -1 -2 2 1 -1 -2 <space>
+078r_CH-E-611.s10 <space> c3 <space> -2 2 3 -5 -3 3 <space>
+078r_CH-E-611.s12 <space> c4 <space> 0 -1 -2 0 3 <space> -5 2 3 0 0 0 <space> 0 0 -1 -2 <space> 0 3 -5 <space> 2 <space>
+078r_CH-E-611.s14 <space> c4 <space> -1 1 -1 <space> -4 2 0 3 <space> 0 0 -1 -4 2 <space> 0 0 2 <space> 1 2 0 -2 <space> 2 2 -4 <space>
+078r_CH-E-611.s16 <space> c4 <space> 0 3 -1 -2 2 <space> 1 2 -2 2 -5 <space> 3 -1 -2 2 1 2 <space> -2 2 2 -2 -2 -1 0 <space> 5 -2 2 3 <space> -5 0 <space> 2 <space>
+078r_CH-E-611.s18 <space> c4 <space> 0 0 2 0 -2 <space> 0 0 0 2 -2 2 <space> -2 2 -2 2 <space> 3 -5 -2 0 <space> 2 2 3 <space> 2 -3 1 -3 <space>
+078r_CH-E-611.s20 <space> c4 <space> -3 -2 0 2 3 <space> -3 -2 0 <space> 5 0 -1 <space> 1 -3 -2 0 <space> 0 0 0 2 -2 2 <space> -2 <space>
+078r_CH-E-611.s22 <space> c4 <space> 2 2 3 -1 -2 <space> 2 1 -3 -2 2 0 0 <space> 0 3 -3 -2 <space> 5 0 -1 <space> 1 -3 -2 0 <space> 2 3 2 0 -2 <space>
+078r_CH-E-611.s24 <space> c3 <space> 2 -2 -2 2 0 <space> -5 5 <space> -2 -1 -2 -2 2 <space> -2 -2 2 2 <space> 3 -3 3 -3 <space> 5 -2 2 3 <space> -5 -3 <space> 3 <space>
+078r_CH-E-611.s26 <space> c3 <space> -1 1 2 -2 2 -2 <space> 0 -1 -2 3 0 <space> -5 2 -2 -2 <space> 2 0 2 0 <space> 3 0 -3 -2 2 <space> -2 -2 2 2 0 -2 <space>
+078r_CH-E-611.s28 <space> c3 <space> 0 2 -2 0 -2 2 <space> -7 2 <space> 3 0 0 <space> 4 -2 -2 2 2 <space> -2 0 0 <space> 0 0 -5 <space> 5 <space>
+078r_CH-E-611.s2 <space> c3 <space> 2 3 -3 -2 2 0 -2 <space> 0 0 0 0 2 2 -2 <space> 2 -2 -2 -2 2 2 <space> 0 -2 0 <space> 5 0 2 -2 <space> -1 1 -3 0 -2 <space> 2 3 0 0 0 <space> -3 3 2 -2 <space>
+078r_CH-E-611.s30 <space> c3 <space> 1 -3 -2 2 -2 -2 <space> 2 2 3 -3 0 <space> 5 -2 2 3 <space> -5 -3 <space> 3 -5 2 3 <space> 2 0 -2 2 <space>
+078r_CH-E-611.s4 <space> c3 <space> 0 0 0 0 0 0 <space> -1 1 -1 1 -3 <space> 3 -5 2 2 -2 0 -2 <space> 0 -2 2 0 <space> 0 2 -2 0 <space>
+078r_CH-E-611.s6 <space> c3 <space> 0 2 3 -3 -2 2 2 -2 -2 2 -4 2 2 <space> 0 3 -1 1 2 <space> -2 -1 -2 0 <space> 3 -3 -2 2 -2 <space> 7 0 <space>
+078r_CH-E-611.s8 <space> c3 <space> -2 2 3 2 0 <space> -2 2 2 -4 <space> 2 0 <space> -5 5 -3 1 <space> -3 -2 2 -2 <space> -2 2 2 2 1 -1 <space> -2 <space>
+084r_CH-E-611.s0 <space> c4 <space> 0 0 0 2 <space> 0 -2 0 -2 2 2 <space> 3 -1 -2 2 -2 <space> -2 5 0 -1 <space> 1 -3 -2 <space>
+084r_CH-E-611.s10 <space> c3 <space> 1 2 -3 0 <space> 3 -3 3 <space> 2 -2 -2 -1 1 2 -2 -3 <space> 0 0 3 0 <space> -5 <space> 7 0 2 <space> -2 -2 -1 -2 <space>
+084r_CH-E-611.s12 <space> c4 <space> 0 3 2 -2 <space> 4 0 <space> -4 4 3 <space> -3 -2 -2 2 <space> 2 -2 <space>
+084r_CH-E-611.s14 <space> c4 <space> 0 0 -3 3 2 <space> -2 -2 2 -2 0 <space> -5 2 3 -1 1 <space> -3 0 <space> 7 0 0 <space> -2 -2 2 2 -2 <space>
+084r_CH-E-611.s16 <space> c4 <space> 0 0 0 0 0 <space> 4 -4 -2 <space> 2 2 -2 0 -2 <space> 2 2 0 0 <space> -4 4 <space>
+084r_CH-E-611.s18 <space> c4 <space> 4 3 0 0 -5 <space> 4 1 -3 -2 -2 <space> 2 2 0 -2 0 <space> 5 0 -1 <space> 1 -3 -2 0 <space> 0 2 <space>
+084r_CH-E-611.s20 <space> c4 <space> -2 0 <space> 5 -3 3 <space> -1 -2 0 3 <space> 0 0 0 2 <space> -5 0 -2 2 <space> -2 -2 2 2 0 -2 0 <space>
+084r_CH-E-611.s22 <space> c4 <space> 0 -1 1 -3 -2 <space> 0 0 0 2 <space> 0 -2 0 <space> 5 0 0 0 -1 -2 <space> 3 2 -3 1 -3 <space> 0 <space>
+084r_CH-E-611.s24 <space> c4 <space> 0 -3 1 2 <space> 2 0 -2 0 <space> 5 0 -1 <space> 1 -3 -2 -2 <space> 0 0 0 0 0 0 <space> 0 0 0 0 <space>
+084r_CH-E-611.s26 <space> c4 <space> 5 0 0 <space> 0 -3 0 <space> 2 1 -1 -2 -2 0 2 3 -1 -2 3 0 -5 0 -3 1 -1 <space> 5 -2 2 <space> -2 0 0 -2 <space> 2 -3 1 0 <space> -3 3 2 -2 -1 <space> 1 0 -1 <space>
+084r_CH-E-611.s28 <space> c4 <space> 3 -3 2 1 -1 -2 <space> 0 -2 2 0 <space> 3 2 -2 2 <space> -3 1 <space> 0 -1 -4 2 3 0 <space> -1 1 -3 3 <space> -1 3 -3 1 0 -1 <space>
+084r_CH-E-611.s2 <space> c3 <space> 0 4 3 0 <space> 0 -2 0 <space> 0 0 -1 -2 3 -3 <space> 3 -5 0 <space> 0 -2 2 -2 -1 <space> 0 0 <space> 1 <space>
+084r_CH-E-611.s30 <space> c3 <space> 2 -2 2 2 -2 -2 <space>
+084r_CH-E-611.s32 <space> c4 <space> 0 0 -3 3 0 -3 <space> 3 -3 -2 2 0 -2 <space> 0 0 2 3 -1 <space> -2 -2 2 <space> 3 -3 2 1 -5 2 -2 -2 -1 1 0 -1 <space> 0 3 2 3 -3 <space>
+084r_CH-E-611.s34 <space> c4 <space> 0 3 -5 <space> 0 2 -2 0 2 <space> -4 -1 <space> 1 0 <space> -3 2 3 2 -2 <space> 2 3 0 0 0 <space> -3 -2 -2 2 <space> 2 0 -2 2 <space> 0 -2 2 -5 1 0 -3 3 2 -2 -1 1 0 -1 <space>
+084r_CH-E-611.s4 <space> c4 <space> 0 0 -2 2 2 0 <space> -2 0 <space>
+084r_CH-E-611.s6 <space> c3 <space> 0 2 -2 -2 -1 <space> -2 <space>
+084r_CH-E-611.s8 <space> c4 <space> 0 4 3 0 <space> 0 0 -2 -3 <space>
+088v_CH-E-611.s0 <space> f3 <space> -3 3 0 0 <space> -1 1 -3 -2 2 <space> 3 0 -3 0 <space> 5 0 -2 <space> 2 -3 1 0 <space> -3 3 2 -2 -1 <space> 1 -1 1 0 <space> -3 5 <space>
+088v_CH-E-611.s10 <space> c3 <space> -2 2 2 -4 <space> 0 2 -7 <space> 2 3 2 0 -2 <space> 2 2 -2 -2 2 0 0 <space> -5 5 <space> -2 -1 -2 -2 2 <space> -2 <space>
+088v_CH-E-611.s12 <space> c4 <space> 2 2 3 <space> -3 -2 2 0 2 -2 <space> 2 3 -5 <space> -4 4 <space>
+088v_CH-E-611.s14 <space> c3 <space> 5 -3 3 2 -2 0 <space> 0 -3 3 2 -2 <space> -2 2 -2 -1 -4 <space>
+088v_CH-E-611.s16 <space> c3 <space> 0 0 2 -2 0 -1 1 <space> -3 2 1 0 <space> -5 0 <space> 7 0 2 <space> -2 -2 -1 <space>
+088v_CH-E-611.s18 <space> c4 <space> -2 2 2 -2 <space>
+088v_CH-E-611.s20 <space> c4 <space> -1 -2 -2 5 2 <space> 2 -2 2 -2 -2 0 <space> 2 -3 1 -3 0 <space> 7 0 0 <space> -2 -2 2 2 -2 <space> 5 -3 3 -3 -2 <space> 2 -2 <space>
+088v_CH-E-611.s22 <space> c3 <space> 4 3 0 -1 -2 <space> 3 2 -2 2 <space> 3 0 0 0 -5 <space> 0 0 0 <space> -7 2 <space> 4 0 1 <space> -1 0 -2 2 0 -2 <space> -2 4 <space> -4 4 <space>
+088v_CH-E-611.s24 <space> c4 <space> 0 7 0 <space> 2 -3 1 -3 <space> 3 0 0 0 0 <space> -3 0 <space>
+088v_CH-E-611.s26 <space> c4 <space> 2 0 7 3 -3 0 <space> 0 0 0 0 0 0 <space> 0 -2 2 3 -3 -2 <space> -2 4 0 -2 <space> -2 2 -5 <space> 3 0 <space>
+088v_CH-E-611.s28 <space> c4 <space> 0 4 <space> -4 -1 -2 <space> 7 0 0 <space> -2 -2 2 2 -2 -2 <space> -1 -2 <space>
+088v_CH-E-611.s2 <space> c4 <space> 3 -3 0 0 -2 <space> 2 3 -5 2 0 -2 <space> 0 -3 <space> 1 -1 <space> 1 2 2 -2 0 <space> 2 -2 0 0 <space> 2 3 -1 1 2 -2 -3 -2 -2 <space> 2 2 -2 2 -2 2 2 -2 <space> -7 <space>
+088v_CH-E-611.s4 <space> c4 <space> 3 0 2 -3 1 <space> -1 -2 5 -2 2 2 -2 <space> 2 0 -2 0 2 -2 -2 <space> 0 -1 1 -1 <space> 1 -1 -2 2 1 -3 <space> 7 -2 <space> 0 -2 0 2 <space> 2 0 3 <space> -5 -2 2 2 <space> -2 <space>
+088v_CH-E-611.s6 <space> c4 <space> 3 -3 1 0 -1 <space> 5 0 -2 <space> -2 2 2 -2 <space> 4 -4 <space> -3 1 -1 <space> 3 2 -2 0 <space> -2 2 2 -2 -2 -1 <space> 1 2 -2 0 -1 <space> 1 -1 1 0 <space> 0 -3 0 3 <space>
+088v_CH-E-611.s8 <space> c3 <space> 2 0 -2 2 2 -4 <space> 2 0 -5 5 -2 -1 <space> -2 -2 2 -2 <space> -2 2 2 3 <space> -3 0 <space>
+106w_CH-E-611.s0 <space> c3 <space> 0 0 0 0 0 0 <space> 0 0 0 0 0 0 <space> 0 0 0 -1 -2 -2 2 2 1 -3 <space>
+106w_CH-E-611.s10 <space> c4 <space> 2 0 3 -1 1 2 -2 -1 -2 0 3 -3 -2 2 -2 <space> -2 0 0 <space> 0 0 0 -3 3 <space> 2 -2 -1 1 <space> 0 -1 <space> 5 0 0 <space> 0 3 -5 <space> 2 <space>
+106w_CH-E-611.s12 <space> c4 <space> 1 <space> 4 3 -5 -2 <space> 0 -3 3 -3 <space> 3 -1 1 2 2 -2 <space> 0 0 0 0 0 -2 2 <space> 2 3 -5 2 -2 <space> -3 0 3 -3 <space> 1 0 -1 <space> 5 <space>
+106w_CH-E-611.s14 <space> c4 <space> 0 0 0 -2 2 3 <space> -5 2 -5 1 4 3 -5 -2 0 -3 3 -3 <space> 3 -3 2 1 2 <space> 2 -2 0 2 0 -2 0 <space> -2 2 2 3 -5 2 -2 -3 3 -3 1 0 -1 <space> 1 0 <space>
+106w_CH-E-611.s16 <space> c4 <space> -3 3 -3 3 <space> 4 -2 -2 -1 -4 2 3 -1 -2 3 4 -2 2 -5 1 -1 0 1 -1 1 0 -1 <space> 5 0 -2 <space> 2 -2 -2 2 2 -2 <space> 2 -2 -3 1 -1 <space> 3 0 0 0 <space> 2 <space>
+106w_CH-E-611.s18 <space> c4 <space> 0 0 0 2 -2 0 <space> 0 -2 2 2 -2 -2 -1 1 2 -2 0 -1 <space> 1 -3 3 <space> 0 0 0 0 0 0 <space> 0 -1 1 2 -2 -1 3 0 2 -2 2 -2 -2 <space>
+106w_CH-E-611.s20 <space> c4 <space> 2 0 -3 1 <space> -1 -2 <space> 7 -2 2 <space> -2 0 2 -2 0 <space> 2 3 -1 -2 2 1 -1 -2 <space> -2 0 0 2 <space> 0 -2 2 -2 -2 2 <space> 2 0 -4 2 2 <space> 3 -3 2 <space>
+106w_CH-E-611.s22 <space> c4 <space> -2 0 2 3 0 0 <space> 0 0 0 2 -2 0 2 <space> -5 <space> -4 2 2 0 <space> -4 2 2 -2 <space> 0 2 3 -1 -2 2 1 -1 -2 <space> 3 -3 -2 0 2 <space> 3 -3 2 <space>
+106w_CH-E-611.s24 <space> c3 <space> -2 7 2 <space> 1 -1 -4 2 2 <space> 1 -1 0 <space> 0 -2 -2 0 <space> -1 1 2 -2 -1 -2 3 <space> -3 -2 0 2 3 <space> -1 -2 2 -2 -2 <space> 2 2 -2 -2 0 2 <space> -2 2 <space>
+106w_CH-E-611.s26 <space> c3 <space> 3 -3 -4 <space> 2 -2 2 -2 2 <space> -2 0 0 2 <space> 3 -1 -2 2 1 <space> -1 -2 3 -1 -2 -2 0 <space> 2 3 -3 2 -2 -2 <space> 2 -2 5 <space> -5 2 -2 0 <space> -2 2 2 3 <space> 2 -2 0 -1 -2 2 1 -1 <space> -2 3 -3 -2 <space> 0 2 3 -3 <space> 2 <space>
+106w_CH-E-611.s28 <space> c3 <space> -2 7 2 <space> 1 -1 -2 -2 2 -2 0 -1 <space> 1 0 <space> 0 2 -3 1 2 -2 2 <space> 0 2 1 -1 0 -2 <space> -2 2 -2 0 -1 <space> 1 2 -2 2 <space> 0 2 -2 0 0 <space>
+106w_CH-E-611.s2 <space> c4 <space> 5 -2 2 2 -2 0 <space> 0 0 0 2 <space> 3 -3 0 -2 <space> 2 3 -5 2 -2 0 -2 <space> 4 -2 -2 2 2 <space> -2 0 0 <space> 0 2 3 -1 -2 2 1 -1 -2 <space>
+106w_CH-E-611.s4 <space> c4 <space> 0 2 3 -3 -2 2 -2 2 2 -2 <space> -4 2 2 0 -2 2 <space> -2 -2 2 -2 -1 <space> 1 -3 3 -5 <space> 2 3 -1 1 -1 <space> -2 3 2 <space> 2 -2 0 2 3 <space> -5 2 -2 0 <space> -2 0 4 3 <space> -1 1 2 -2 -1 -2 <space>
+106w_CH-E-611.s6 <space> c4 <space> 1 -1 -2 -2 0 <space> 2 3 -3 -2 2 0 -2 <space> 2 -2 5 <space> -5 2 -2 0 <space> -2 2 2 3 <space> 2 -2 0 -1 -2 2 1 -1 <space> -2 3 -3 -2 <space> 0 2 3 -3 2 -2 -2 <space> 5 0 0 <space> 2 -2 -1 1 -3 0 -2 <space>
+106w_CH-E-611.s8 <space> c4 <space> 3 0 0 -3 <space> 2 1 -3 3 <space> -5 2 <space> 2 -2 0 -2 0 <space> 0 -2 2 0 <space> 0 0 0 0 2 <space> 3 -3 -2 2 2 -2 -2 <space> 2 <space>
+111r_CH-E-611.s0 <space> c4 <space> 0 0 0 2 <space> 3 -5 0 -2 <space> 4 3 0 -1 <space> 1 -3 -2 2 -2 -2 <space> 2 2 0 -2 0 <space> 5 0 -1 <space> 1 -3 -2 2 -2 <space>
+111r_CH-E-611.s10 <space> c4 <space> 4 1 -3 0 <space> -2 0 5 0 -1 1 <space> -3 -2 0 <space> -2 0 0 2 <space> 2 0 0 -2 <space> 0 -2 <space>
+111r_CH-E-611.s12 <space> c4 <space> 0 2 0 -2 <space> 4 0 <space> 0 -2 -2 2 2 0 <space> 0 -4 <space> 0 0 0 0 0 0 <space>
+111r_CH-E-611.s14 <space> c2 <space> 4 1 2 <space> 2 3 -5 2 -2 <space> -3 1 2 -2 -1 <space> -2 -2 0 <space> 5 -1 -2 <space> 2 1 2 0 0 <space> 0 2 <space>
+111r_CH-E-611.s16 <space> c3 <space> -2 -1 -2 2 -2 <space> 2 -4 0 <space> 7 0 2 <space> -2 -2 -1 -2 <space>
+111r_CH-E-611.s18 <space> c4 <space> 0 0 -2 5 2 <space> -2 2 2 0 0 <space> 0 3 -3 -2 0 <space> -2 2 2 -2 -2 <space> -3 3 0 <space> 2 2 -2 -2 2 -2 <space>
+111r_CH-E-611.s20 <space> c4 <space> 0 5 -3 1 <space> -1 -2 0 <space> 7 0 0 <space> -2 -2 2 2 -2 <space> -5 3 -1 <space> 1 0 2 <space> 0 5 0 <space> 0 0 0 0 <space>
+111r_CH-E-611.s22 <space> c4 <space> 0 0 0 0 0 0 <space> 0 -1 -2 -2 2 2 1 -3 <space> -4 0 0 <space> 0 -1 3 2 <space> -4 0 <space> -3 -2 5 0 <space>
+111r_CH-E-611.s24 <space> c4 <space> 0 -1 3 2 <space> 0 0 -2 0 -2 <space> 4 0 -4 2 <space> 2 -2 -2 <space> 7 0 0 <space> 0 0 0 0 0 0 <space> 0 -1 -2 -2 2 2 1 -3 <space>
+111r_CH-E-611.s26 <space> c4 <space> 0 0 -1 <space> 3 2 -5 <space> 1 -1 -2 -2 <space> 5 0 0 <space> 0 0 -1 <space> 3 2 0 0 -2 <space> 0 -2 4 0 <space> -4 2 2 -2 -2 <space>
+111r_CH-E-611.s28 <space> c4 <space> 0 0 0 0 0 0 <space> 0 0 -1 -2 -2 2 2 1 -3 <space>
+111r_CH-E-611.s2 <space> c3 <space> 2 3 0 0 <space> 2 2 -2 -3 3 <space> 2 -2 -2 2 0 0 <space> -5 5 -3 1 <space> -3 -2 2 -2 <space> -2 2 2 3 <space> -5 2 0 <space>
+111r_CH-E-611.s30 <space> c3 <space> 0 4 1 <space> 2 -2 4 -2 0 <space>
+111r_CH-E-611.s32 <space> c4 <space> 2 0 0 0 0 <space> -5 2 3 0 0 <space> 5 0 0 -5 <space> 5 0 2 -2 0 <space> 0 -5 <space> 4 0 -2 <space> 2 <space>
+111r_CH-E-611.s4 <space> c3 <space> -2 2 3 -5 -3 3 <space> -5 <space>
+111r_CH-E-611.s6 <space> c4 <space> 2 0 -2 <space> 4 3 0 2 -2 <space> -3 2 -2 -2 <space> 2 3 -5 2 -2 -2 <space> 0 -1 -2 2 1 <space> 2 0 0 <space>
+111r_CH-E-611.s8 <space> c4 <space> 0 0 -1 1 -3 -2 <space> 2 -2 0 <space> 5 0 0 -5 <space> 4 1 -3 -2 <space> 2 -2 -2 2 0 0 <space> 0 -2 4 3 <space> 0 <space>
+112r_CH-E-611.s0 <space> c4 <space> -4 2 -2 0 <space> -1 -2 -2 2 3 -1 <space> -2 0 7 <space> 0 0 -2 2 -2 -2 <space> 0 0 0 -1 3 <space> 2 -5 1 <space> -1 <space>
+112r_CH-E-611.s10 <space> c4 <space> 2 0 0 -2 <space> 0 -2 0 <space> 0 2 0 -2 0 2 <space> 2 0 0 0 0 <space> 3 -3 0 -2 0 <space> 0 4 <space>
+112r_CH-E-611.s12 <space> c4 <space> 0 0 0 0 0 0 <space> -1 3 2 <space> 0 0 -2 0 -2 <space> 0 0 2 0 -2 <space>
+112r_CH-E-611.s14 <space> c4 <space> 2 2 0 0 <space> 0 0 0 -2 <space> -2 2 2 <space>
+112r_CH-E-611.s16 <space> c4 <space> 0 0 -1 <space> 3 0 2 0 <space> 0 -2 0 -2 0 <space> 0 2 0 -2 <space> 4 0 -2 <space> -2 2 2 <space>
+112r_CH-E-611.s18 <space> c4 <space> 2 3 -1 1 2 0 <space> -2 4 -2 -2 <space> 2 0 2 <space> 3 0 0 0 0 <space> -1 -2 3 -1 -2 -2 0 <space> -7 2 <space> 3 <space>
+112r_CH-E-611.s20 <space> c4 <space> 0 -1 -2 0 <space> 2 1 -1 -2 0 <space> 3 -5 2 3 <space> 0 -1 -2 3 <space> 2 0 2 <space> 3 0 0 -1 -2 3 <space> -1 -2 -2 0 2 <space> 0 3 <space>
+112r_CH-E-611.s22 <space> c4 <space> -2 2 -2 -3 1 <space> 2 0 0 <space> 5 0 -1 <space> 1 -3 -2 <space> -7 2 <space> 0 0 0 0 3 -3 <space> -2 2 -2 2 <space>
+112r_CH-E-611.s24 <space> c4 <space> 7 3 -3 0 -2 -2 -1 1 2 <space> -2 -1 -2 3 -3 -2 <space> 2 2 1 -1 -2 -2 2 <space> 3 0 2 -2 <space> 4 0 -2 <space> -2 2 2 -2 0 <space> 2 -4 -1 -4 <space>
+112r_CH-E-611.s26 <space> c4 <space> 3 0 2 -2 0 -1 -2 <space> -2 2 3 -1 -2 <space> 0 0 7 0 <space> 2 1 -1 -2 0 <space> -2 0 2 -2 -2 -1 <space> 3 2 -4 -1 <space> -2 3 -1 -2 <space> -2 5 -1 -2 0 <space> 2 <space>
+112r_CH-E-611.s2 <space> c4 <space> -2 5 0 <space> 0 0 -1 <space> 3 2 0 0 -2 <space> 0 -2 4 0 <space> -4 2 2 -2 -2 <space> -3 -2 2 3 -1 <space>
+112r_CH-E-611.s4 <space> c4 <space> 0 0 -2 5 2 <space> 2 -2 -2 2 -2 0 <space> 0 2 -2 -1 -2 <space> -2 2 3 -1 -2 <space> 0 7 0 0 <space> -2 -2 2 2 -2 <space>
+112r_CH-E-611.s6 <space> c4 <space> 0 0 2 -2 0 2 <space> 2 0 0 -2 <space> 0 -2 0 <space> 0 2 0 -2 0 2 <space> 2 0 3 -3 <space>
+112r_CH-E-611.s8 <space> c4 <space> -2 -2 2 2 0 0 <space> -2 0 -2 0 <space> 0 2 0 -2 <space> 4 0 <space> 0 0 2 -2 0 <space> 0 0 2 -2 <space>
+117v_CH-E-611.s0 <space> c4 <space> -2 -2 2 2 <space> -5 3 2 -2 <space> -2 -1 1 <space> 0 2 -2 -3 <space> -2 2 0 <space> 7 0 -2 -2 <space> 2 2 -2 -5 <space> -2 2 3 0 2 -2 <space>
+117v_CH-E-611.s10 <space> c4 <space> 2 3 -3 -2 <space> -5 3 0 <space> -1 -2 2 0 <space> -4 2 3 <space> 0 -1 -2 2 1 <space> 2 0 2 -2 <space> 2 -4 2 -2 <space> -1 0 <space> 5 -2 2 3 <space>
+117v_CH-E-611.s12 <space> c3 <space> -3 5 <space> -2 -2 4 3 2 <space> -2 0 0 2 <space> 3 -1 -2 2 -2 <space> -2 0 0 2 -2 -1 <space> 1 -5 4 <space> -2 2 1 -1 -2 -2 <space> 2 -2 0 -2 <space>
+117v_CH-E-611.s14 <space> c3 <space> 2 4 1 2 -2 -1 <space> 0 -2 -2 4 <space> -2 2 1 -1 -2 <space> 0 0 -2 -2 <space> 0 7 0 <space> 2 -3 1 -3 <space>
+117v_CH-E-611.s16 <space> c4 <space> 1 -3 -2 2 0 <space> 2 1 -3 0 <space> 0 2 1 2 <space> 0 -2 -1 -2 2 <space> 1 -1 <space>
+117v_CH-E-611.s18 <space> c4 <space> 3 2 2 <space> 1 -1 -2 -2 <space> 2 -2 -2 0 2 <space> 2 -4 2 -2 -1 -2 <space> 2 0 3 <space> 2 2 1 -3 -2 <space> 2 0 2 -2 <space>
+117v_CH-E-611.s20 <space> c4 <space> 0 0 0 0 2 -2 <space> -2 -3 2 0 <space> 0 1 2 <space> 0 -2 0 -1 <space> 1 2 -2 -1 0 -2 <space> -2 2 2 1 2 <space> 0 0 0 2 -2 <space> -2 -1 -2 2 0 <space>
+117v_CH-E-611.s22 <space> c4 <space> 0 -2 2 1 -1 -2 <space> 2 1 2 0 -2 -1 1 -3 <space> -2 0 4 <space> 1 2 -2 -1 -2 2 <space> 0 5 -2 2 <space> 3 -5 -3 <space> -2 0 0 <space> 5 <space>
+117v_CH-E-611.s24 <space> c4 <space> 0 -5 2 0 <space> 3 0 0 <space> 4 3 -5 2 <space> -2 -2 2 -3 1 -3 0 <space> 5 -3 1 <space> -1 -2 -2 2 3 <space>
+117v_CH-E-611.s26 <space> c4 <space> -2 2 3 -1 -2 <space> 0 3 0 0 -1 <space> -4 2 0 <space> 0 -2 2 2 <space> 1 2 -2 -3 <space> 3 -3 -2 5 <space> 4 -2 2 -4 <space> 2 <space>
+117v_CH-E-611.s28 <space> f3 <space> -2 -2 2 <space> -5 5 2 <space> -4 0 -1 -2 <space> 3 -1 -4 2 -2 <space> 2 3 -1 1 2 -2 -1 -2 <space> -2 2 0 <space> 7 0 0 <space> -2 <space>
+117v_CH-E-611.s2 <space> f3 <space> -2 2 0 0 3 <space> -3 0 -2 2 <space> 3 0 0 -1 -4 <space> 2 0 0 -2 <space> 2 3 2 -2 0 <space> 0 0 0 -3 <space> 2 1 2 -2 -1 <space>
+117v_CH-E-611.s30 <space> c4 <space> 2 2 -2 <space>
+117v_CH-E-611.s4 <space> c4 <space> 3 0 0 -1 -4 <space> 2 0 2 -2 <space> 5 2 3 <space> 0 0 0 -1 -2 <space> 2 1 2 0 -2 -1 -2 <space> 3 -3 -2 0 0 <space> 2 <space>
+117v_CH-E-611.s6 <space> c4 <space> 0 0 -5 <space> 5 2 3 <space> 0 0 0 0 <space> -1 -2 2 1 0 <space> 0 -1 -2 3 -3 -2 0 <space> 0 0 2 -2 0 <space> 0 2 -2 -3 0 <space>
+117v_CH-E-611.s8 <space> c4 <space> 0 0 -3 3 -3 <space> -2 -2 -3 <space> 2 1 -3 -2 2 2 0 <space> 0 1 <space> -3 -2 2 0 3 <space> -1 0 <space> 0 3 2 <space> 0 3 -3 0 <space>
+121v_CH-E-611.s0 <space> c4 <space> 0 -2 2 -2 -2 2 <space> 2 -2 2 -2 -3 <space> 1 -1 3 <space> 0 0 -2 2 2 -2 -2 <space> 0 -1 1 2 -2 <space> 0 0 -1 1 -3 <space> 3 0 0 0 <space>
+121v_CH-E-611.s10 <space> c2 <space> 2 -2 -1 -4 2 <space> -5 3 <space>
+121v_CH-E-611.s12 <space> c3 <space> 7 <space> 2 -2 5 0 2 -2 <space> -1 -2 -2 2 <space> -5 3 0 <space> -1 -2 2 -2 -2 <space> -2 0 2 2 <space> 2 -2 <space> -4 2 -2 <space>
+121v_CH-E-611.s14 <space> c3 <space> 7 0 0 <space> 2 -2 0 -3 3 -3 <space> 3 2 -2 0 <space> 0 0 -3 0 5 0 <space> -3 1 2 -2 2 <space> 0 -2 <space> -7 <space> 4 -2 <space>
+121v_CH-E-611.s16 <space> c3 <space> 2 3 -3 -2 <space> 0 0 <space> -7 4 3 2 <space> -2 0 -1 -2 -2 <space> 5 0 0 <space> 2 -2 0 -3 <space>
+121v_CH-E-611.s18 <space> c4 <space> 3 -3 -2 5 -1 -2 3 -1 -2 -2 2 -2 <space>
+121v_CH-E-611.s20 <space> c4 <space> 0 2 2 -2 -2 0 <space> 2 -2 4 0 <space> 0 2 -2 0 0 <space> -2 0 -5 0 <space> 5 0 0 <space> 0 2 -4 0 0 -1 -2 3 -3 <space> -2 2 0 <space>
+121v_CH-E-611.s22 <space> c4 <space> 0 -2 0 2 <space> 3 -1 -2 0 <space> 7 <space> 2 -2 -2 2 -2 -2 <space> -1 -2 3 2 <space> 2 0 0 -2 <space> 2 0 0 -2 <space> -2 -1 -2 3 <space>
+121v_CH-E-611.s24 <space> c4 <space> 2 -5 3 <space> 0 0 2 2 0 <space> -2 -2 0 <space> 0 2 2 -4 <space> 2 -5 -2 <space> 5 2 <space> 2 2 -2 -2 2 -2 <space> -2 4 0 <space> 3 2 -2 -1 -2 <space> -2 2 -2 -2 4 <space> -7 <space> 0 -2 4 3 <space> 2 -7 <space> -2 <space>
+121v_CH-E-611.s26 <space> c4 <space> 2 3 -1 1 -1 <space> -2 0 <space> 3 2 2 -2 -2 0 <space> -3 3 <space> 4 2 -2 <space> 0 0 0 -2 <space> -2 4 <space>
+121v_CH-E-611.s28 <space> c4 <space> 0 2 -2 -2 -2 <space> -1 3 2 <space> 0 -4 <space> 0 -5 5 <space> -5 <space> 4 3 2 <space> 0 -7 <space> 0 -2 <space>
+121v_CH-E-611.s2 <space> c4 <space> 0 0 0 0 0 0 <space> 0 -1 1 2 -2 -1 3 0 2 -2 2 -2 -2 <space> -1 1 2 -2 0 0 -1 <space> -4 2 3 <space> 0 0 0 <space>
+121v_CH-E-611.s30 <space> c4 <space> -1 -2 -2 2 2 1 -3 0 <space> 0 7 2 -2 <space> -2 <space>
+121v_CH-E-611.s32 <space> c3 <space> 2 0 -2 2 2 -4 0 <space> 0 -3 2 1 <space> -3 -2 5 <space> 2 3 0 0 -3 <space> 3 -5 <space>
+121v_CH-E-611.s34 <space> c2 <space> -2 0 -1 1 <space> 0 4 1 <space> 2 0 -2 -1 -2 <space> 3 -5 2 2 <space> 1 -1 -2 -2 <space> 2 2 -4 2 <space> -5 2 <space> 1 0 <space> 4 1 2 -2 -1 -2 -2 <space> 4 3 <space>
+121v_CH-E-611.s36 <space> c2 <space> -2 -2 -1 1 2 -2 -1 -2 -2 <space> -3 2 1 -3 -2 <space> 5 2 2 -2 -2 -1 -2 3 <space> -5 <space> 4 -2 -2 <space> 2 3 2 2 -2 -2 -1 -2 <space> 3 <space> 5 -1 -2 <space>
+121v_CH-E-611.s4 <space> c3 <space> -2 5 0 <space> 0 2 -2 0 -1 -2 <space> -2 5 0 <space> 0 0 2 2 -2 -2 <space> 2 -2 -1 -2 3 <space> 0 -1 -2 -2 2 -2 <space> -2 0 4 3 <space> 0 2 -2 <space>
+121v_CH-E-611.s6 <space> c3 <space> 0 2 3 -3 -2 5 -1 -2 -2 2 -5 <space> 0 0 -2 -2 <space> 4 3 0 2 -2 0 0 <space> 2 2 -2 -2 2 0 -2 <space> 0 2 -2 0 -3 2 1 -1 -2 -2 <space> 2 <space>
+121v_CH-E-611.s8 <space> c3 <space> -2 -2 0 -2 <space> 0 7 2 -2 <space> 5 <space>
+199r_CH-E-611.s0 <space> c4 <space> -2 5 -1 1 -3 3 -3 -2 2 5 -2 -1 <space> -2 -2 2 0 0 <space> 3 -3 <space>
+199r_CH-E-611.s10 <space> f3 <space> 2 2 -2 2 1 -1 -2 -2 <space> 2 2 3 <space> 2 -2 -2 -1 1 <space> -3 0 0 <space> -3 -2 5 0 <space> -2 -1 1 2 -2 2 <space> 3 -3 3 <space> 2 2 -2 -5 <space> 3 -1 1 -3 -2 <space> 2 2 1 -1 -2 <space>
+199r_CH-E-611.s12 <space> f3 <space> 2 3 0 2 -2 <space> 4 0 -2 <space> -5 3 -1 -4 <space> 2 0 0 -2 <space> 2 -5 0 <space> 3 -1 1 2 0 <space> 2 1 -3 0 -2 2 <space> -2 2 2 -2 0 <space> 3 -3 <space>
+199r_CH-E-611.s14 <space> c3 <space> -1 -2 2 1 -1 <space> -2 0 0 2 <space> -2 2 3 2 -2 <space> -2 -1 1 -3 -2 <space> 2 -4 -1 -2 <space> 2 <space> 8 <space> -1 -2 0 0 <space> 2 -2 2 3 2 -4 -1 <space> -2 7 <space> 0 -2 -2 -1 <space> -2 2 1 <space> -3 -2 2 <space> -4 -1 <space>
+199r_CH-E-611.s16 <space> c4 <space> 2 0 -2 <space> 5 2 <space> 2 0 -2 2 <space> 1 2 -2 -1 -2 2 <space> 3 2 -2 -2 -1 -2 <space> 2 1 -1 0 <space> -7 <space> 1 -3 5 <space> 2 2 0 -2 2 <space> 1 2 -2 -1 -2 2 <space>
+199r_CH-E-611.s18 <space> c3 <space> 2 -7 <space> 3 -1 -2 <space> 7 -2 -2 -1 <space> -2 2 1 <space> -3 -2 -2 -1 -2 <space> 2 0 <space>
+199r_CH-E-611.s20 <space> c4 <space> -3 2 -2 -2 <space> 2 2 -2 2 <space> 1 2 -2 -1 0 <space>
+199r_CH-E-611.s22 <space> c3 <space> 7 -2 -2 -1 <space> -2 2 1 <space> -3 <space>
+199r_CH-E-611.s24 <space> c4 <space> 0 2 0 <space> -7 <space> 8 <space> -3 2 -2 -2 <space> 2 2 0 -2 2 <space> 1 2 -2 -1 0 <space>
+199r_CH-E-611.s26 <space> c3 <space> 7 -2 -2 -1 <space> -2 3 -3 -2 <space> 2 2 <space>
+199r_CH-E-611.s28 <space> f3 <space> -2 0 <space> 5 2 <space> 2 -7 <space> 0 -2 -3 3 <space> 2 0 2 1 -3 0 <space> 3 -3 -2 5 <space> 2 -3 1 -1 -2 <space> -5 0 <space> 3 2 0 0 <space> 3 -1 1 2 2 -2 <space> -2 -1 -2 3 <space> -1 1 2 -3 -2 <space>
+199r_CH-E-611.s2 <space> c3 <space> 3 2 2 <space> -4 0 <space> -3 <space>
+199r_CH-E-611.s30 <space> c4 <space> 7 -2 2 0 <space> -2 2 3 2 <space> -7 2 <space> -2 2 2 1 -1 -2 <space> -7 7 <space> 0 -2 0 <space> 0 2 -2 -2 -1 <space> -4 2 0 2 1 -3 <space> 0 5 2 <space>
+199r_CH-E-611.s32 <space> c4 <space> -1 -2 5 <space> -5 3 -5 2 2 1 -3 0 <space> 0 -2 2 -2 -2 <space> -1 -2 3 -5 <space> 2 2 1 -3 0 <space> 5 2 <space> 2 1 -1 -2 <space> 5 <space> -7 2 <space> 0 -2 2 2 <space> 1 -3 -2 2 -2 <space> 2 2 0 -2 <space> 5 <space> -7 <space> 4 -2 -2 2 2 <space> -4 -2 <space> -1 -2 -2 2 2 <space> 1 2 -2 2 2 <space> -4 <space> -3 <space>
+199r_CH-E-611.s34 <space> c4 <space> 7 -2 2 -2 -2 <space> -3 3 -3 <space> 0 3 2 2 -2 <space> 2 2 1 -1 -2 <space> 5 -2 -1 -2 <space> -2 2 -2 -2 0 <space> 2 0 2 <space> -4 <space> -3 3 -3 -2 <space> 5 -3 <space>
+199r_CH-E-611.s36 <space> c4 <space> 2 0 -2 2 -2 -2 <space> -3 3 -3 <space> 0 3 2 2 0 -2 <space> 2 2 1 -1 -2 0 <space> 5 -2 -1 -2 <space> -2 2 -2 -2 2 <space> 0 2 -4 -3 3 -3 -2 <space> 5 -3 <space> 5 2 <space>
+199r_CH-E-611.s38 <space> c4 <space> -2 2 3 -3 <space> 3 -3 -2 2 0 -2 <space> 5 2 <space> 2 -4 -1 -2 3 2 <space> -2 -1 -4 2 <space> 0 0 0 <space> 5 -2 -1 -2 <space> 3 -3 <space>
+199r_CH-E-611.s4 <space> c4 <space> 0 -2 2 -2 -2 2 <space> -3 1 -1 -2 <space> 5 -2 2 2 <space> -4 -1 -2 <space>
+199r_CH-E-611.s6 <space> c4 <space> -2 2 -2 -2 -1 -2 <space> 5 2 -2 <space> 0 2 0 2 -2 <space> 0 -2 2 3 <space> 2 -5 0 -2 <space> -2 2 -2 -1 -2 <space> 0 0 7 0 <space> -2 <space>
+199r_CH-E-611.s8 <space> f3 <space> -5 3 2 -2 2 3 -3 <space> 5 -2 -1 -2 <space> 2 1 -1 -2 0 2 <space> 1 -3 0 0 <space> 2 1 2 0 -3 1 -3 0 <space> 0 -5 0 <space> 3 -1 1 2 0 <space> 2 1 -3 0 -2 2 <space>
+205r_CH-E-611.s0 <space> c2 <space> 0 -2 2 2 <space> 1 -3 0 0 <space> 3 -3 0 0 <space> 2 1 2 -2 0 <space> -1 -2 0 2 <space> -2 -2 -1 1 <space> 0 0 <space>
+205r_CH-E-611.s10 <space> c4 <space> 3 -3 -2 2 -2 -2 -1 -2 <space> 0 0 7 0 3 <space> -5 0 5 <space> 0 -1 1 -3 -2 2 <space> -2 -5 3 <space> 2 -2 -1 -2 0 0 <space>
+205r_CH-E-611.s12 <space> c4 <space> 0 -2 5 2 2 0 <space> 2 -2 -2 2 0 <space> -2 -2 2 0 2 -2 -2 0 <space> -3 3 -1 -2 <space> 3 -3 -2 0 <space> 5 -1 <space> 3 2 <space>
+205r_CH-E-611.s14 <space> c4 <space> -3 0 <space> 7 0 -2 2 <space> 3 2 -2 -1 -2 0 <space> 0 <space>
+205r_CH-E-611.s16 <space> c3 <space> 2 0 -2 2 -2 -1 <space> -2 0 <space>
+205r_CH-E-611.s18 <space> c4 <space> -2 0 0 2 <space> 0 -4 2 2 -2 -2 <space> 2 -2 -1 -2 0 0 <space> 0 5 -2 2 2 -2 <space> 0 2 -2 -2 2 <space> -2 -1 -2 -2 2 <space> 3 -1 -2 0 <space> 7 0 0 <space> -2 <space>
+205r_CH-E-611.s20 <space> c4 <space> 2 2 -2 -5 <space> 2 1 2 -5 <space> 3 -1 -2 <space> 7 -2 -2 2 <space> 2 -4 -3 <space> 2 1 2 -2 -1 0 <space>
+205r_CH-E-611.s22 <space> c4 <space> 2 2 1 2 -2 -1 <space> -2 2 0 3 <space> 2 3 0 -1 -2 -2 <space> 2 2 -2 -2 -2 <space> 2 0 2 <space> -7 2 <space> 1 -1 0 <space> 0 <space>
+205r_CH-E-611.s24 <space> c4 <space> 2 -2 -2 4 3 <space> 2 -4 -1 -2 <space> 2 1 2 <space> -3 -2 <space> 7 0 3 -3 <space> 0 -2 2 -2 -2 2 <space> -5 3 2 2 -2 <space> -2 -1 0 <space>
+205r_CH-E-611.s26 <space> c4 <space> -2 2 3 -5 <space> -3 <space>
+205r_CH-E-611.s28 <space> c4 <space> 2 1 2 0 -2 -3 0 5 0 2 2 -2 2 -2 2 0 <space> 3 -3 -2 <space>
+205r_CH-E-611.s2 <space> c3 <space> 2 1 -3 0 -2 <space> -1 -2 <space> -4 4 3 <space> 2 0 -2 <space> -3 0 0 <space> 3 -5 -2 2 0 <space> 7 0 2 <space> -2 -2 -1 -2 <space>
+205r_CH-E-611.s30 <space> c4 <space> 1 -1 -2 5 2 3 0 <space> 0 2 -2 0 -1 -2 <space> 2 1 -3 -2 2 <space> 2 1 2 -2 -1 0 <space> -2 2 0 0 <space> 1 -3 -2 -2 <space> -1 0 -2 <space>
+205r_CH-E-611.s32 <space> c4 <space> 2 -7 <space> 0 -2 2 2 <space> 0 1 <space> -3 5 2 <space> 2 0 <space>
+205r_CH-E-611.s34 <space> c3 <space> 1 2 0 2 -2 -2 -1 0 <space> 0 1 2 <space> -2 -1 1 -3 -2 <space> 2 2 0 <space> 1 -3 -2 <space>
+205r_CH-E-611.s36 <space> c4 <space> -4 -1 <space> 0 1 <space> -3 -2 2 2 0 <space> 0 1 2 <space> -3 0 -2 2 <space> -2 -2 2 2 0 <space> 1 -3 3 2 2 0 -2 -5 5 -2 -1 0 <space>
+205r_CH-E-611.s4 <space> c4 <space> 1 2 0 0 <space>
+205r_CH-E-611.s6 <space> c4 <space> -2 2 -2 -2 4 <space> -2 2 3 -1 -2 <space> -2 2 3 -3 -2 0 <space> 4 1 2 <space> -3 1 -1 -2 3 -3 -2 <space> 0 0 0 2 <space> 0 0 3 -3 0 <space> 0 -2 <space>
+205r_CH-E-611.s8 <space> c3 <space> -2 2 -2 -2 4 <space> 3 2 -2 -3 -2 2 3 <space> -5 0 0 <space> 5 2 0 <space> 0 0 -2 0 <space> -1 -2 3 -5 0 <space> 0 0 0 2 <space>
+208v_CH-E-611.s0 <space> c4 <space> 2 2 1 -1 -2 -2 2 0 <space>
+208v_CH-E-611.s10 <space> c4 <space> 7 0 -2 2 -2 -2 2 2 <space> -9 <space> 2 3 2 -7 2 0 <space>
+208v_CH-E-611.s12 <space> c4 <space> 7 -2 2 3 2 <space>
+208v_CH-E-611.s14 <space> c4 <space> -2 -2 -1 -2 -2 <space> 2 3 -1 -2 -2 2 0 <space> 7 -2 2 3 2 <space> 3 -3 -2 <space> -1 -2 -2 -2 2 2 <space>
+208v_CH-E-611.s16 <space> c4 <space> -2 -2 -1 1 <space> -3 0 <space> 7 0 -2 2 -2 -2 2 2 <space> -9 <space> 2 3 2 -7 2 0 <space> 7 -2 2 3 2 <space>
+208v_CH-E-611.s18 <space> c4 <space> 7 -2 2 0 -2 -2 -1 -2 <space> 3 2 -7 2 0 <space> 0 7 -2 <space> 2 0 3 <space> 0 2 0 -2 <space> -5 5 2 -2 <space> -1 -2 -2 2 0 <space>
+208v_CH-E-611.s20 <space> c3 <space> 3 0 2 0 <space> 0 -2 2 3 -3 -2 0 <space> -1 -2 -2 2 0 0 <space> 2 1 -5 5 -1 -2 0 <space>
+208v_CH-E-611.s22 <space> c4 <space> 3 -1 -2 <space> 5 0 2 0 <space> 3 -1 -2 -2 -2 <space> 0 -1 -2 -2 <space> 5 2 <space> 2 -7 <space> 3 -1 -2 <space>
+208v_CH-E-611.s24 <space> c4 <space> 2 0 0 <space> 7 0 0 <space> -2 -2 2 2 -2 2 <space>
+208v_CH-E-611.s26 <space> f3 <space> -5 2 3 0 <space> 3 -5 -3 <space> 3 2 -2 2 3 -3 <space> 3 4 -2 -2 <space> -3 5 0 <space> 2 <space>
+208v_CH-E-611.s28 <space> f3 <space> 0 -7 <space> 3 -1 -2 -2 0 <space> -3 3 2 <space> 5 0 -5 <space> 5 2 -2 -2 -1 <space> 1 -3 0 -2 0 <space> -3 3 2 0 <space> 0 7 0 -2 <space> -2 -1 -2 <space>
+208v_CH-E-611.s2 <space> c3 <space> -2 2 3 2 0 <space> -2 -3 -2 2 0 <space> 5 0 -2 <space> 2 3 -1 -2 -2 <space> -1 -2 3 2 -7 2 <space> 2 -2 -2 -2 2 <space> -5 0 -2 2 <space> -2 2 3 2 <space> -7 2 <space> 2 1 -1 -2 -2 2 0 <space> 2 1 <space> -5 2 0 <space> 7 -2 <space>
+208v_CH-E-611.s30 <space> f3 <space> -3 -2 2 0 -2 <space> -3 3 2 <space> 3 2 -2 -1 -2 0 <space> -2 -3 3 2 0 <space> 3 0 0 -1 -4 <space> 2 0 <space>
+208v_CH-E-611.s32 <space> c4 <space> 2 3 -1 1 -3 -2 <space>
+208v_CH-E-611.s34 <space> c4 <space> 0 2 0 <space> 3 -2 <space> -1 -2 -2 2 3 -1 <space> -2 2 0 1 <space> -3 -2 2 <space> -7 2 <space> 0 0 <space> 1 -1 0 <space> 3 2 -2 2 2 <space> 0 1 2 <space> -2 2 2 <space>
+208v_CH-E-611.s36 <space> c4 <space> 5 -2 -1 <space> 0 1 <space> -3 -2 -2 -1 -2 3 2 2 0 -2 <space> -2 -1 0 <space> 1 -3 -2 2 -2 <space> 2 3 -1 -2 2 1 <space> 2 -5 <space> 2 0 <space>
+208v_CH-E-611.s38 <space> c4 <space> -3 5 2 2 1 <space> 2 -2 -1 -2 2 0 <space>
+208v_CH-E-611.s40 <space> c3 <space> -3 -2 2 2 1 2 -2 -1 0 <space> 3 2 -2 -5 <space> 5 0 -2 -1 -2 <space> 2 0 0 <space> 1 -3 -2 -2 <space> -1 0 <space> 3 2 <space>
+208v_CH-E-611.s42 <space> c4 <space> 2 -4 -1 0 <space> 8 <space> 0 0 -3 3 <space> -1 -2 <space> -5 1 2 <space> -2 -1 -2 2 0 <space> 3 2 0 -2 <space> -5 3 2 2 -2 <space> -2 -1 0 0 <space> 3 2 <space>
+208v_CH-E-611.s44 <space> c4 <space> 3 -1 -2 0 -2 <space> -2 -1 -2 3 <space> 2 2 -4 2 -2 -1 0 <space> 3 2 2 <space> 1 -1 -2 <space> 3 0 -1 -2 -2 2 <space> -2 -3 1 2 <space> 2 -2 -2 -1 0 1 <space> 2 -5 5 -2 <space> -1 <space>
+208v_CH-E-611.s46 <space> c4 <space> -2 2 2 1 -1 -2 2 0 0 <space> 0 7 <space> 1 -1 -2 -2 -2 <space> 4 -2 -2 -1 <space> -2 3 2 <space> 2 0 -2 -2 -1 -2 <space> -2 2 2 1 -1 -2 2 0 <space> 5 -2 2 3 <space> -5 -3 <space>
+208v_CH-E-611.s4 <space> c4 <space> -1 -2 -2 5 0 <space> -3 -2 2 0 <space> 7 -2 -2 2 <space> 2 <space>
+208v_CH-E-611.s6 <space> c3 <space> 2 3 -3 -2 <space> 0 -1 -2 -2 0 2 <space> 0 3 -1 -2 <space>
+208v_CH-E-611.s8 <space> c4 <space> -2 2 2 <space> 2 -4 -2 <space> -1 1 -3 0 <space>
+213r_CH-E-611.s0 <space> c3 <space> 2 0 2 -2 -2 -1 -2 <space> 0 5 0 <space> -2 0 -5 0 <space> 5 0 2 -2 0 <space> 0 -3 2 <space> -2 -2 0 <space> 0 2 3 -3 <space>
+213r_CH-E-611.s10 <space> c4 <space> 3 -3 0 -2 <space> 2 3 2 2 -2 -2 <space> 2 -2 0 0 <space> 2 2 -2 -2 <space> 4 -2 -2 <space> 2 -2 0 -3 3 <space>
+213r_CH-E-611.s12 <space> c4 <space> 2 -4 -1 -2 0 <space> 7 0 0 <space> -2 -2 2 2 -2 <space>
+213r_CH-E-611.s14 <space> c4 <space> 3 -5 2 2 <space> 1 2 -2 -3 -2 <space> 2 0 3 <space> 4 -2 2 -2 -2 <space> 2 0 <space> -5 0 -2 <space> 5 -1 -2 <space>
+213r_CH-E-611.s16 <space> c4 <space> 7 0 -2 -2 <space> 2 2 -2 2 -2 <space> 2 -2 -2 2 2 <space> 3 -3 -2 2 0 0 -2 <space> -2 -1 1 2 -2 -1 <space> -2 <space>
+213r_CH-E-611.s18 <space> c4 <space> 3 -1 -2 3 <space> 0 2 2 -2 2 -2 <space> -3 1 2 -2 -1 <space> -2 0 7 <space> 0 0 0 0 -2 2 -2 <space> 0 5 -3 0 <space> -2 -2 4 <space>
+213r_CH-E-611.s20 <space> c4 <space> 2 -2 -2 -2 2 0 <space> 0 2 3 -1 1 2 -2 <space> -3 -2 -2 4 <space> 3 -3 -2 <space>
+213r_CH-E-611.s22 <space> c3 <space> 7 -3 3 2 -2 0 <space> 0 2 1 -1 -2 -2 <space> 4 -2 -2 <space>
+213r_CH-E-611.s24 <space> c4 <space> 2 -2 -5 <space> 5 0 2 -2 <space> 2 -3 1 -3 <space> -2 2 0 0 <space> 0 0 0 0 0 0 <space> 3 0 -5 0 <space>
+213r_CH-E-611.s26 <space> c4 <space> 0 -1 1 -3 -2 <space> -7 2 <space> 0 7 3 -3 0 <space> 0 3 -3 0 <space> 0 0 -2 2 3 -3 -2 <space> -2 2 2 -2 -2 -1 <space> 1 2 -2 -1 -2 <space>
+213r_CH-E-611.s28 <space> c4 <space> 0 0 2 -2 -1 <space> 3 -2 <space> -1 -2 0 <space> 7 0 -2 -2 <space> 2 2 -2 -2 -1 -2 2 <space> 0 0 -2 <space> 3 -3 2 1 2 <space> -2 <space>
+213r_CH-E-611.s2 <space> c3 <space> 0 2 -2 2 <space> -2 2 -4 0 <space> 7 0 0 <space> 2 2 -2 -2 2 2 -2 <space> -2 -1 -2 0 <space> 5 0 -2 0 <space>
+213r_CH-E-611.s30 <space> c4 <space> 3 0 -3 -2 2 <space> 5 -2 -1 -2 2 0 <space> 5 -2 2 3 <space> -5 -3 <space> 3 -5 <space> 3 2 2 -2 0 0 <space>
+213r_CH-E-611.s4 <space> c3 <space> 5 0 2 <space> -3 1 -1 -2 -2 <space> 2 -2 2 -2 -2 2 2 <space> 3 0 -1 1 2 <space> -5 -2 0 <space> 5 0 -1 <space> 1 -3 -2 <space>
+213r_CH-E-611.s6 <space> c4 <space> -2 2 3 0 -1 -2 <space> -2 2 2 1 -1 -2 -2 2 3 <space> 0 2 2 -2 -2 2 <space> 2 0 2 -2 <space> -4 4 <space>
+213r_CH-E-611.s8 <space> c4 <space> -3 -2 2 -2 0 -2 <space> 2 2 -2 2 -2 -2 <space> 2 -2 0 2 2 <space> -2 -2 2 -2 -1 -2 <space> 0 7 -2 <space> 2 -4 2 2 <space> -4 -1 -2 <space>
+215r_CH-E-611.s0 <space> c3 <space> 0 0 0 -2 2 3 <space> -1 3 -2 0 0 -1 <space> 1 -3 3 <space> 0 0 0 0 0 2 <space> -2 0 -1 -2 3 <space> -1 1 -3 3 -3 -2 2 0 -2 <space> 0 <space>
+215r_CH-E-611.s10 <space> f3 <space> -2 2 3 0 0 <space> -3 3 -3 0 -2 <space> 2 0 0 -2 <space> 2 3 0 0 <space> 2 2 <space>
+215r_CH-E-611.s12 <space> c4 <space> 0 -2 2 -4 <space> -1 -2 3 -1 -4 2 0 <space> 7 0 -2 -2 <space> 2 2 -2 -5 <space> -2 2 <space>
+215r_CH-E-611.s14 <space> c4 <space> -1 1 -3 3 -3 0 -2 <space> 2 3 -1 1 -3 -2 <space> 5 0 0 <space> 4 -2 2 -4 <space> -1 -2 2 1 2 -2 -1 <space> -2 -2 2 <space> 3 -1 -2 0 <space>
+215r_CH-E-611.s16 <space> c4 <space> 0 -2 -2 2 2 -2 <space> -7 <space> 0 2 0 0 <space> 0 0 3 -3 -2 <space> 5 2 <space> 2 0 0 -2 <space> 0 <space>
+215r_CH-E-611.s18 <space> c4 <space> 2 -2 -2 2 -2 <space> -3 0 <space> 5 0 0 <space> 0 2 -2 -2 0 <space> 0 -1 -2 3 -3 -2 0 <space> 0 0 2 0 0 <space> -2 0 2 3 2 -2 <space>
+215r_CH-E-611.s20 <space> c4 <space> 1 2 2 -4 -1 <space> -2 -2 2 0 <space> 7 0 -2 -2 <space> 2 2 -2 -2 -1 -2 <space> 10 <space> 0 0 0 0 0 0 <space> 0 0 -1 -2 -2 2 2 1 -3 <space> -4 0 2 <space> -2 0 -3 3 <space> -3 0 <space>
+215r_CH-E-611.s22 <space> c4 <space> 1 2 2 -2 2 3 -3 <space> 0 0 0 -2 <space> 0 2 2 <space> 1 -3 -2 2 <space> -4 -1 <space> 3 -3 1 0 -1 1 -1 <space> 1 2 -2 0 -1 -2 <space> 3 -1 <space>
+215r_CH-E-611.s24 <space> c4 <space> 3 -3 0 -2 2 0 <space> 3 0 0 -1 1 -3 <space> 3 -3 -2 2 3 -1 1 0 -1 -2 2 -2 -2 <space> 5 0 2 -2 <space> -1 -2 3 <space>
+215r_CH-E-611.s26 <space> f3 <space> 0 -2 2 0 <space> -2 0 -1 0 -2 <space> -2 2 -2 <space>
+215r_CH-E-611.s28 <space> c4 <space> 2 -3 1 -3 2 1 -3 0 -2 2 2 1 -1 -2 2 0 -2 <space> -2 2 3 2 -2 <space> 0 2 2 -2 -2 0 <space>
+215r_CH-E-611.s2 <space> c4 <space> 2 3 -3 <space>
+215r_CH-E-611.s30 <space> c4 <space> 5 0 2 -2 0 <space>
+215r_CH-E-611.s32 <space> c4 <space> 0 0 2 2 -2 <space> 2 0 -2 0 -2 <space> 0 0 2 0 0 <space> -2 2 2 -2 2 0 -2 <space> -2 0 0 -3 <space> 3 -1 -4 <space> 5 2 2 -2 <space> 2 2 -2 -2 -2 0 <space> 2 2 -2 -2 2 0 -2 <space>
+215r_CH-E-611.s34 <space> c4 <space> 4 3 0 2 -2 <space>
+215r_CH-E-611.s36 <space> c4 <space> 2 -2 -2 2 -2 <space> 2 2 1 -1 0 -2 <space> 2 0 -2 0 <space> 3 -1 1 -3 -2 <space> 2 -2 -2 2 2 -2 -2 2 <space> 0 -2 0 2 <space> 2 3 -5 -2 -1 <space> -2 2 1 -1 -2 <space> 3 <space>
+215r_CH-E-611.s4 <space> f3 <space> 2 1 0 0 <space> 0 -5 2 <space> 2 1 -1 -2 0 -2 2 <space> 2 1 2 2 -2 <space> 0 -7 <space> 2 3 4 -2 <space> 0 -2 4 <space> -4 2 0 -2 <space> 2 -2 -3 3 -1 <space> 1 -3 0 -2 2 <space> 0 -2 0 <space> 4 1 2 0 2 -2 <space>
+215r_CH-E-611.s6 <space> f3 <space> 2 2 -4 0 -1 -4 2 0 0 -2 2 2 1 <space> -3 3 0 0 0 <space> -3 0 3 <space> -5 -3 <space> 3 <space> 5 -3 <space> 2 1 -1 -2 3 <space> -3 0 -2 2 <space> 3 0 2 -2 <space> 2 2 -2 -2 <space>
+215r_CH-E-611.s8 <space> f3 <space> 0 2 -2 0 0 <space> 0 0 -1 1 2 -3 1 <space> -3 2 1 -1 0 <space> -2 -2 4 3 0 2 -2 <space>
+227v_CH-E-611.s0 <space> c4 <space> -2 2 -2 -2 0 <space> 2 -2 0 0 -1 <space> -2 0 0 <space> 0 5 -2 2 <space> 0 0 0 0 2 -2 <space> 2 -4 2 -2 0 <space>
+227v_CH-E-611.s10 <space> f3 <space> 1 2 0 -3 1 <space> -3 -2 5 <space> 2 -2 2 2 -2 0 -2 -1 -2 2 0 <space>
+227v_CH-E-611.s12 <space> c4 <space> -2 2 3 -5 <space> -3 1 -1 -2 <space>
+227v_CH-E-611.s14 <space> c4 <space> 2 3 -3 -2 2 <space>
+227v_CH-E-611.s16 <space> c4 <space> -3 3 -3 -2 <space> 5 <space> 4 -2 2 -2 -2 <space> 2 2 0 -4 <space> 4 -2 -2 0 <space> -1 3 -2 <space> -1 -2 -2 2 0 0 <space> 5 -2 2 <space>
+227v_CH-E-611.s18 <space> c4 <space> 0 2 -4 0 <space> -3 3 -1 -4 2 -2 <space> 2 3 0 -1 1 2 <space> -2 -1 -2 0 <space> 7 0 -2 -2 <space> 2 2 -2 -2 -1 -2 <space>
+227v_CH-E-611.s20 <space> c4 <space> 0 5 -3 0 <space> -2 -2 2 2 -2 0 <space> 4 1 0 <space> 2 0 0 0 <space> -2 -3 3 0 0 <space> 0 2 -2 0 <space>
+227v_CH-E-611.s22 <space> c3 <space> 2 -2 -2 -1 1 2 -2 -3 <space> 0 -2 2 3 -3 <space> 3 -5 -2 2 0 <space> 5 0 0 -1 <space> 1 -3 -2 <space>
+227v_CH-E-611.s24 <space> c4 <space> 0 0 0 2 1 <space> -3 <space> 10 <space> 0 0 0 0 0 0 <space> 0 0 -1 <space> 0 -2 -2 2 2 <space> 1 -3 <space>
+227v_CH-E-611.s26 <space> c4 <space> -2 2 2 -2 0 <space> 0 2 -2 0 0 <space> 0 2 0 -2 -2 <space> 2 2 0 -2 2 <space> 3 0 -1 -2 <space> 3 -1 <space>
+227v_CH-E-611.s28 <space> c4 <space> -2 0 0 -2 <space> 2 -2 -1 -2 <space> 5 0 0 <space> 0 2 -2 -2 2 <space> 0 2 -4 0 <space> 4 3 0 0 -1 <space> -2 3 <space> -5 <space>
+227v_CH-E-611.s2 <space> c4 <space> 3 -1 1 -3 -2 <space> -2 0 0 <space> 0 -3 3 -5 0 <space> 2 3 2 -2 -1 3 <space> -2 -1 -2 0 <space> 7 0 -2 -2 <space> 2 2 -2 -2 -1 -2 <space>
+227v_CH-E-611.s4 <space> c4 <space> 2 3 -1 1 -1 <space> 0 1 2 <space> 0 -2 -1 -2 <space> 0 3 -5 <space> 2 2 -2 <space> 7 <space>
+227v_CH-E-611.s6 <space> c4 <space> 3 -3 -2 -2 <space> 2 2 -2 -3 0 <space> 0 1 2 <space> -2 -3 3 -3 -2 <space> 5 2 -2 <space> 2 2 -2 2 -2 -2 <space> -1 -2 <space> 7 -2 2 3 -3 -2 2 <space> -4 -1 -2 2 0 <space> 1 2 0 -2 -1 -2 <space> 3 <space>
+227v_CH-E-611.s8 <space> f3 <space> -2 7 0 2 <space> 0 -2 -2 2 -2 <space> -1 -2 2 0 0 <space> 1 2 0 -2 -1 -2 3 -3 -2 <space> 7 0 2 <space> 0 -2 -2 2 2 -2 -2 -1 -2 <space> 2 0 <space>
+229v_CH-E-611.s0 <space> c4 <space> -2 0 2 -5 2 -2 -2 <space> -2 0 4 3 <space> -3 0 -2 <space> 5 0 0 -1 <space> 1 -1 -2 -2 <space> 2 -2 2 -2 -2 2 0 -2 <space> 0 2 2 -2 2 -2 <space> 0 2 -2 -2 2 <space> -2 -1 1 -3 3 <space> -5 <space>
+229v_CH-E-611.s10 <space> c4 <space> -2 -2 2 2 <space> 3 -3 0 -2 <space> 5 0 -1 <space> 1 -1 -2 -2 <space> 2 -2 2 -2 -2 2 0 -2 <space> 0 2 2 0 -2 0 <space> 2 -2 0 0 2 -2 <space> -2 2 -2 -1 1 <space> -3 3 -5 <space>
+229v_CH-E-611.s12 <space> c4 <space> 3 -1 1 -1 -2 <space> 5 0 2 -2 -2 2 2 -2 <space> 0 2 3 -1 -2 2 1 -1 -2 -2 2 3 -3 -2 2 0 -2 <space>
+229v_CH-E-611.s14 <space> c3 <space> 0 -1 1 2 -2 -1 1 -3 0 -2 <space> 2 3 0 0 0 <space> 0 0 <space>
+229v_CH-E-611.s16 <space> c3 <space> -3 2 1 -3 3 -5 2 2 -2 0 -2 <space> 0 -2 2 0 <space> 0 0 0 0 0 2 <space> 3 -3 -2 2 2 -2 -2 2 -2 <space> 2 0 3 -1 1 2 -2 -1 -2 0 3 -3 -2 2 -2 <space> -2 2 2 <space>
+229v_CH-E-611.s18 <space> c4 <space> 0 0 0 2 1 <space> -3 -2 2 0 -2 <space> 2 3 2 -2 -1 -2 3 -1 <space> -2 0 -2 2 -2 <space> 2 0 7 <space> 3 0 -3 -2 <space> 5 -3 3 <space> -5 -2 2 2 <space>
+229v_CH-E-611.s20 <space> c4 <space> 0 -2 0 <space> 0 2 -2 2 <space> -7 <space> 0 -2 2 0 <space> 2 1 -3 0 <space> 7 -2 2 <space> 5 -2 2 <space> -2 -1 -2 -2 2 <space> -4 2 2 0 0 <space> -2 2 -4 2 2 <space> -7 -2 <space> 2 3 0 2 <space> 2 -2 2 -4 2 -2 <space> -1 -2 <space>
+229v_CH-E-611.s22 <space> c4 <space> 2 0 0 <space> 3 -1 1 -1 -2 0 <space> 7 0 0 <space> -2 2 -2 -2 -1 <space> 0 3 2 <space> 0 0 0 <space> 5 -2 2 <space> -2 -1 -2 -2 2 0 <space> 0 3 2 -2 <space> -1 -2 <space>
+229v_CH-E-611.s24 <space> c4 <space> 2 0 2 -2 0 <space> -9 <space> 2 3 2 0 <space> 2 0 2 1 <space> -1 -2 0 0 <space> -2 2 -2 -2 -1 <space> 0 0 <space> 1 2 -2 -1 -2 <space> 7 -2 <space> -5 <space> 7 0 0 -2 2 -2 -2 -1 -2 <space>
+229v_CH-E-611.s26 <space> c4 <space> 2 0 0 0 <space> 5 -2 2 <space> -2 -1 -2 -2 2 0 <space> -7 <space> 3 2 0 -2 2 2 <space> -7 2 <space> 1 -1 -2 -2 <space> 2 <space> 7 -2 <space>
+229v_CH-E-611.s28 <space> c4 <space> -2 2 3 0 -1 -2 <space> 0 3 0 <space> -5 2 3 0 -1 <space> -2 0 <space> 3 0 0 2 2 -2 <space>
+229v_CH-E-611.s2 <space> c4 <space> 3 -1 1 -1 -2 <space> 5 0 2 -2 -2 2 2 -2 <space> 0 2 3 -1 -2 2 1 -1 -2 -2 2 3 -3 -2 2 0 -2 <space> 5 0 -1 <space> 1 2 -2 -1 1 -3 <space> 0 -2 2 3 <space> 0 <space>
+229v_CH-E-611.s30 <space> c4 <space> 2 -2 0 2 -2 <space> 0 2 -2 -3 <space> -2 2 3 -1 -2 <space> 3 0 0 -1 -4 <space> 2 <space>
+229v_CH-E-611.s4 <space> c3 <space> 0 0 0 0 0 <space> -3 2 1 -3 3 -5 2 2 -2 0 -2 <space> 0 -2 2 0 2 -2 <space> 0 0 0 0 2 -2 <space> 0 2 3 -3 -2 2 2 -2 <space>
+229v_CH-E-611.s6 <space> c3 <space> 2 -4 2 2 0 3 -1 1 2 -2 -1 -2 0 3 -3 -2 2 -2 <space> -2 2 2 -2 -2 2 2 -2 <space> 0 0 0 0 2 <space> 0 0 -2 2 3 <space> -5 <space>
+229v_CH-E-611.s8 <space> c4 <space> -2 0 2 2 <space> 0 3 -3 -2 0 2 <space> 2 -2 -2 -2 2 2 -2 <space> 2 3 -1 -2 2 1 -1 -2 -2 2 3 -3 -2 2 0 -2 <space> 5 0 -3 <space> 3 0 2 0 <space> -3 1 <space> 0 -3 2 1 -1 <space> -2 -2 2 <space>
+248r_CH-E-611.s0 <space> c3 <space> 0 3 2 -2 <space> -1 -2 -2 2 2 <space> -4 -2 0 <space> 0 4 -2 5 <space> -1 -2 -2 2 -2 -2 <space> 0 0 4 <space> 3 2 <space>
+248r_CH-E-611.s10 <space> c4 <space> 2 0 -2 0 2 <space> -2 2 0 0 <space> -2 -1 -2 2 1 0 <space> 0 <space> 6 <space> 0 1 2 <space> -2 -1 -2 <space>
+248r_CH-E-611.s12 <space> c4 <space> -4 -2 0 <space> 0 0 -1 1 -3 -2 <space> 2 3 2 2 <space> -4 2 2 2 -2 -2 <space> -2 0 4 0 <space> -4 2 2 -2 -2 <space>
+248r_CH-E-611.s14 <space> c4 <space> -2 2 2 1 <space> -5 4 1 -3 <space> 3 2 2 0 <space> 0 0 -2 -2 2 <space> -2 2 0 <space> -5 3 -3 <space> -2 4 1 -3 <space> 7 -2 <space>
+248r_CH-E-611.s16 <space> c4 <space> 3 2 0 -5 <space> 2 -4 -2 <space> 4 0 <space> 0 -2 2 0 <space> -2 -2 -1 -2 3 2 <space> -2 -1 -2 -2 <space> 4 3 2 0 -2 <space> -2 -1 -2 2 1 -1 -2 -2 <space> 2 2 1 -3 <space> 7 -2 2 <space>
+248r_CH-E-611.s18 <space> c4 <space> -2 4 -2 <space> -5 3 -1 -2 -2 2 0 <space> 7 -2 <space> -5 3 -1 <space> 1 -3 <space> 7 -2 <space> -5 0 0 <space> 0 3 -3 2 -2 <space>
+248r_CH-E-611.s20 <space> c4 <space> -2 2 1 -3 -2 2 0 <space> 3 0 0 -1 1 -3 <space> -2 4 -2 <space> 3 -1 1 -3 -2 <space> 2 3 4 -2 <space> 2 0 -2 -2 -1 -2 <space>
+248r_CH-E-611.s22 <space> c4 <space> 2 0 -2 2 <space> 3 2 -2 0 <space> 2 2 2 -2 <space> -2 2 -2 -2 2 -2 <space> -1 -2 -2 2 2 1 -3 0 <space> 2 1 2 0 -2 -1 -2 2 1 -1 <space> -2 <space>
+248r_CH-E-611.s24 <space> f3 <space> -5 3 2 0 <space> 3 -3 0 -2 <space> 4 -2 2 <space> 1 -1 -2 -2 <space> 2 2 1 -3 <space> 3 4 -2 2 <space>
+248r_CH-E-611.s26 <space> c4 <space> 1 -1 -2 5 <space> 2 -5 1 <space> -1 -2 5 <space> 2 <space>
+248r_CH-E-611.s28 <space> c3 <space> -3 -2 2 3 0 <space> 0 -1 -2 3 -5 2 <space> -2 -2 -1 <space>
+248r_CH-E-611.s2 <space> c3 <space> -2 2 1 <space> 0 0 2 2 0 <space>
+248r_CH-E-611.s30 <space> c4 <space> 3 2 2 0 -2 -2 -1 -2 2 0 <space> -2 5 2 -2 <space> 2 3 -3 -2 2 <space> 3 0 0 2 2 -2 <space> -2 -1 -2 2 0 <space> 1 -3 <space>
+248r_CH-E-611.s32 <space> c4 <space> -2 -1 -2 0 <space> 7 0 -2 2 3 -1 -2 -2 2 -2 -2 -1 -2 7 <space> 0 -2 -2 2 0 <space> 2 -2 -2 -1 <space> 8 <space> -1 -2 3 -5 2 3 <space> -1 3 -2 <space> -1 0 <space> -4 2 -2 0 <space> 2 <space>
+248r_CH-E-611.s34 <space> c4 <space> -2 -2 2 <space> -3 3 -2 -1 <space> 0 -2 5 2 -2 <space> 2 3 -3 -2 <space>
+248r_CH-E-611.s36 <space> c4 <space> 3 -3 -2 5 0 <space> -1 -2 0 2 <space> 1 2 0 0 <space> 0 2 0 0 -2 <space> -2 0 <space>
+248r_CH-E-611.s4 <space> c2 <space> -2 -1 1 -3 -2 <space> -3 2 1 -1 -2 <space>
+248r_CH-E-611.s6 <space> c3 <space> 4 3 0 2 -2 -1 <space> -2 -2 0 <space> 0 0 2 -2 0 -2 <space>
+248r_CH-E-611.s8 <space> c4 <space> 0 2 -3 1 <space> -3 -2 -2 <space> -3 -2 2 3 0 <space> 2 2 2 -4 -2 0 <space> 4 2 1 0 <space> -1 -2 2 -4 -2 <space> 2 2 2 -2 <space> -2 <space>
+250r_CH-E-611.s0 <space> f3 <space> -1 -2 3 -5 -3 3 <space> 0 2 0 <space> 3 2 -3 <space> -2 3 <space> -5 5 -3 0 <space> 3 0 0 -1 -4 <space> 2 0 -2 2 <space>
+250r_CH-E-611.s10 <space> c4 <space> 1 -1 -2 7 <space> -2 -2 -1 -2 2 0 <space> 5 -2 2 3 <space> -5 -3 <space>
+250r_CH-E-611.s12 <space> c3 <space> -4 4 3 0 <space> -3 -2 5 2 -2 0 <space> 5 -1 -2 -2 <space> -1 -2 2 <space>
+250r_CH-E-611.s14 <space> c3 <space> 4 1 2 -2 -1 -2 <space> 2 1 -1 -2 -2 0 <space> -1 -2 -2 2 2 -2 <space> -2 0 -2 0 2 2 <space> 2 -2 -2 2 0 <space> 3 -1 -2 -2 <space> 4 <space>
+250r_CH-E-611.s16 <space> c3 <space> -2 -2 0 -2 <space> 7 0 2 <space> -3 1 -3 3 <space> 0 2 3 -1 -2 3 <space> -3 -2 2 3 <space>
+250r_CH-E-611.s18 <space> c3 <space> -1 -2 2 1 0 <space> 0 2 3 0 -3 <space> -2 5 0 <space> 0 0 0 <space> 4 -4 2 <space> -2 -1 0 <space> -2 3 -3 -2 <space> -3 2 -2 -2 <space> 4 0 <space>
+250r_CH-E-611.s20 <space> c3 <space> 2 -2 2 3 <space> -1 1 -1 -2 -2 <space> -1 1 <space> 0 <space>
+250r_CH-E-611.s22 <space> c2 <space> 5 2 <space> 2 -4 2 -2 <space> -1 1 <space> 4 -5 1 -1 <space> 0 1 <space> 4 -2 -2 <space> 4 -2 -2 <space> 4 -5 1 -1 <space> -2 -2 <space>
+250r_CH-E-611.s24 <space> c3 <space> 7 -2 <space> 4 0 -4 2 <space> 2 -2 -2 <space>
+250r_CH-E-611.s26 <space> c3 <space> 4 3 0 2 <space> 2 1 -1 -2 -2 2 <space> -2 0 0 2 -2 -1 <space> -2 3 -1 -2 <space> -2 -2 <space>
+250r_CH-E-611.s28 <space> c4 <space> -3 3 2 2 <space> 2 -2 <space>
+250r_CH-E-611.s2 <space> c4 <space> -2 5 0 2 -2 <space> 0 4 1 <space> 2 -2 -1 -2 -2 <space> -5 3 2 <space> 2 -7 <space> 3 <space>
+250r_CH-E-611.s4 <space> c4 <space> 0 0 -2 2 -2 <space> 5 2 -2 <space> 2 2 1 -1 -2 -2 2 2 1 -1 -2 <space> -2 -2 4 -2 -2 <space> -1 -2 3 2 <space> 2 -2 -2 -1 0 <space>
+250r_CH-E-611.s6 <space> c4 <space> 0 0 -3 3 -3 <space> -2 -3 3 0 <space> 2 0 0 -2 <space> -2 -1 -2 2 0 0 <space> 3 0 2 0 <space> 0 -2 -2 2 0 <space> 0 2 0 -2 <space>
+250r_CH-E-611.s8 <space> c4 <space> 3 2 2 <space> -5 1 <space> -1 -2 0 0 <space> 2 0 0 -2 <space> 5 2 <space> 2 1 -1 -2 -2 -2 4 <space> -4 -1 -2 2 0 <space> -4 2 <space>
+253r_CH-E-611.s0 <space> c3 <space> 0 2 -2 -1 1 -3 0 -2 <space> 2 3 0 0 -3 <space> 2 1 -3 3 <space> -5 2 <space> 2 -2 0 -2 0 -2 <space> 2 0 0 <space> 2 3 -3 -2 2 2 -2 -2 2 -4 2 2 0 3 -1 1 2 -2 -1 -2 <space>
+253r_CH-E-611.s10 <space> c3 <space> 3 0 -1 -2 0 5 -2 2 2 -2 <space> 0 0 -2 2 -5 3 -1 1 2 -2 -1 -2 2 1 -1 -2 <space> -2 0 2 3 <space> -3 -2 2 0 -2 <space> 7 0 2 <space> 1 -1 -2 -2 2 -2 0 -1 <space> 3 0 <space>
+253r_CH-E-611.s12 <space> f3 <space> 3 5 -3 0 <space> 0 -2 2 3 -1 <space> 1 -3 -2 <space> 5 -3 3 2 -2 <space> -1 1 <space>
+253r_CH-E-611.s14 <space> f3 <space> 0 3 -3 0 <space> 0 2 1 2 <space> -2 -1 1 -1 -2 2 1 -3 <space> 0 3 -3 0 <space> 0 3 -1 1 <space> -3 2 1 -3 <space> 0 -2 2 0 <space> -2 5 0 -1 -2 <space>
+253r_CH-E-611.s16 <space> f4 <space> 3 -3 3 -5 -1 1 0 -1 1 -1 -2 2 -2 <space> 0 2 1 2 <space> 0 3 -3 0 -2 <space> 2 3 -1 1 <space> -3 0 -2 <space> 5 -1 1 2 -2 <space> -1 1 -3 0 3 -3 <space> 0 <space>
+253r_CH-E-611.s18 <space> f3 <space> -2 0 2 3 0 2 -2 <space> 2 0 -2 0 2 <space> -2 0 0 <space> 0 2 -2 -1 1 <space> 2 -3 1 -3 0 2 1 -1 1 -3 <space> 0 -2 2 0 <space>
+253r_CH-E-611.s20 <space> f3 <space> 0 0 0 0 0 0 <space> 2 1 -1 -2 -2 2 3 -1 1 2 -2 0 -1 -2 2 -2 -2 <space> 5 0 -1 <space> -2 <space>
+253r_CH-E-611.s22 <space> c4 <space> 0 -1 -2 -2 2 3 -3 -2 <space> 0 0 0 -2 2 <space> 0 -2 -1 1 -3 <space> 3 0 <space>
+253r_CH-E-611.s24 <space> c4 <space> 2 0 -2 <space> 5 0 -1 <space> 1 -3 -2 2 <space> -7 -2 <space> 2 3 0 -3 <space> 0 3 2 2 0 -2 <space> 2 0 <space>
+253r_CH-E-611.s26 <space> c4 <space> -2 -2 0 2 <space> 0 2 -4 2 -2 -1 <space> -4 2 3 <space> -1 -2 0 <space> 7 0 -2 -2 <space> 2 2 -2 -5 <space> 7 <space>
+253r_CH-E-611.s28 <space> c4 <space> -3 -2 2 -2 <space> -2 2 2 -2 -2 2 -2 <space> -1 -2 3 0 -5 <space> 4 1 2 <space> -2 -3 3 -1 <space> 1 2 -2 -1 -2 -2 2 <space> 0 <space>
+253r_CH-E-611.s2 <space> c3 <space> 3 -3 -2 2 -2 -2 <space> 2 0 2 <space> 3 -1 -2 2 -2 <space> -2 0 0 <space> 5 -1 1 2 0 <space> 3 -1 -4 2 2 -2 2 0 -2 <space> 0 0 0 0 -2 <space> 2 <space>
+253r_CH-E-611.s30 <space> c4 <space> 0 -2 -2 2 2 -2 <space> 2 -7 <space> 0 -2 5 2 -2 <space> 2 2 0 0 -2 <space> 4 -2 -2 0 <space> -2 4 -2 0 <space> -3 3 2 -2 -2 -1 <space> 1 <space>
+253r_CH-E-611.s4 <space> c3 <space> 3 -1 1 2 -2 -1 0 <space> 1 -1 -2 -2 2 3 -3 <space> -2 2 0 -2 <space> 5 0 0 -1 <space> -2 3 <space> -3 3 -5 2 -2 -2 2 2 -2 2 0 -2 <space> 0 0 5 <space> 0 2 0 <space> 3 -1 -4 2 2 -2 2 0 -2 <space>
+253r_CH-E-611.s6 <space> c2 <space> 0 0 5 <space> 0 -3 -2 2 <space> 1 -1 -2 0 <space> 2 1 -3 0 <space> 0 0 0 -2 2 <space>
+253r_CH-E-611.s8 <space> c3 <space> 2 0 -2 -1 1 -1 -2 -2 2 -2 2 3 -5 2 -2 0 -2 <space> 4 -2 <space>
+253v_CH-E-611.s0 <space> c4 <space> -2 -1 -2 0 <space> 7 0 -2 -2 <space> 2 2 -2 -5 <space> -2 -3 <space> 5 2 <space> 1 2 -2 -1 -2 0 <space> -2 5 2 2 -2 <space> -2 <space>
+253v_CH-E-611.s10 <space> c3 <space> -4 4 3 -1 -2 <space> 2 1 0 0 <space> 2 -2 0 2 3 <space> -1 -2 -2 2 -2 -3 -2 <space> 2 <space>
+253v_CH-E-611.s12 <space> c3 <space> 2 -4 0 <space> 4 0 <space> 0 -2 4 -2 <space> -2 -2 2 0 0 <space> 5 <space> -5 -2 <space> 7 0 2 <space> -3 1 -3 <space>
+253v_CH-E-611.s14 <space> c4 <space>
+253v_CH-E-611.s16 <space> c4 <space> 5 -3 0 <space> -2 -2 2 2 -2 0 <space> 0 0 2 -2 0 <space> 0 2 -2 0 0 <space> 0 2 -4 0 <space> 4 3 -5 2 <space> -2 <space>
+253v_CH-E-611.s18 <space> c4 <space> -2 -3 2 1 2 -2 <space> 2 2 0 -2 0 <space> 5 0 -1 <space> 1 -3 -2 0 <space> 0 5 -3 -2 -2 <space> 2 2 0 -2 0 <space> 0 <space>
+253v_CH-E-611.s20 <space> c4 <space> 1 0 <space> 0 -3 3 0 <space> 0 0 -1 1 -3 -2 <space> 0 0 -2 2 0 <space> -2 -1 -2 2 1 2 <space> 0 <space>
+253v_CH-E-611.s22 <space> c3 <space> 2 0 5 0 <space> -1 1 -3 -2 <space>
+253v_CH-E-611.s24 <space> c4 <space> 0 0 0 <space> -4 2 2 0 0 <space> 3 -3 0 0 -2 <space> -2 -1 1 2 <space>
+253v_CH-E-611.s26 <space> c4 <space> -1 -2 0 <space> 7 0 -2 -2 <space> 2 0 2 0 <space> -4 2 0 <space> 0 2 -2 <space> 5 -1 -2 <space> 3 -5 0 <space> 0 0 -2 <space> -1 1 <space>
+253v_CH-E-611.s28 <space> c4 <space> 3 0 2 2 <space> 0 -2 5 <space> 0 -1 1 -3 -2 <space>
+253v_CH-E-611.s2 <space> c4 <space> 2 -3 1 -1 -2 <space> 0 7 0 -2 <space> -2 2 2 -2 -2 0 <space> 2 -2 2 0 <space> 2 0 -2 -2 <space> 2 2 -2 -2 2 <space>
+253v_CH-E-611.s30 <space> c4 <space> 0 3 2 2 -2 <space> -2 2 0 2 <space> -4 -1 -2 <space> 5 0 0 <space> 0 0 2 -2 -2 <space> 0 -1 -4 2 3 -1 <space>
+253v_CH-E-611.s32 <space> c4 <space> 2 -5 0 -2 <space> 5 2 2 -2 <space> -2 2 2 -4 -1 -2 <space> 0 3 0 0 -1 <space> -2 3 <space> -3 0 3 2 -2 0 <space> 0 2 -2 0 0 <space> 2 <space>
+253v_CH-E-611.s4 <space> c4 <space> -2 0 2 2 <space> 0 0 3 -3 0 <space> 0 0 0 -2 <space> -2 2 2 0 -2 <space>
+253v_CH-E-611.s6 <space> c4 <space> 4 -2 2 -2 -2 <space> 2 -5 <space> 7 -2 2 3 2 <space> -2 2 -2 0 0 <space> 0 0 -1 -4 0 <space> 5 -1 -2 0 <space>
+253v_CH-E-611.s8 <space> c4 <space> 2 -2 -2 0 2 2 -2 2 <space> -2 -3 1 -3 <space> -2 2 3 -1 -2 <space> 0 7 0 0 <space> -2 2 -2 <space>
+264v_CH-E-611.s0 <space> c4 <space> 2 2 2 -2 <space> -2 2 0 0 <space> -2 -2 -1 3 2 -2 -2 <space> 2 -2 -1 -2 0 0 <space> 3 -1 -2 0 <space> 7 0 -2 <space>
+264v_CH-E-611.s10 <space> c4 <space> -2 4 -2 -2 <space> 0 -2 4 -2 <space> 0 0 -3 3 2 <space> -2 -2 -1 1 2 -2 -1 -2 <space> 0 7 0 -2 <space> -2 2 2 -2 <space>
+264v_CH-E-611.s12 <space> c4 <space> 0 -2 5 2 -2 4 0 <space> 0 2 -2 -2 0 <space> -2 4 -2 0 <space> -3 3 2 -2 -2 -1 <space> 1 2 -2 -1 <space>
+264v_CH-E-611.s14 <space> c4 <space> 0 7 0 -2 <space> -2 2 2 -2 <space>
+264v_CH-E-611.s16 <space> c4 <space> 2 -2 2 3 0 0 0 <space> -1 -2 -2 2 3 -3 <space> -2 -3 1 2 <space> 0 0 <space>
+264v_CH-E-611.s18 <space> c4 <space> 1 2 <space>
+264v_CH-E-611.s20 <space> c4 <space> -1 -2 3 -1 <space> 8 <space> 0 0 -3 3 <space> -1 -2 -4 2 <space> -3 3 2 -2 -2 <space> 2 -2 0 0 0 <space> 0 -3 2 1 <space>
+264v_CH-E-611.s22 <space> c4 <space> 0 2 -2 -2 2 2 -2 <space> -2 -1 -2 2 0 <space> 5 -2 2 3 <space> -5 -3 <space>
+264v_CH-E-611.s24 <space> c4 <space> 2 1 -1 -2 0 <space> 3 -3 -2 2 <space> 3 -1 -2 3 <space> -5 0 5 <space> 4 -2 2 -4 <space> 2 2 -2 -2 2 -5 <space> 5 -2 0 <space> -1 -2 -2 0 2 <space>
+264v_CH-E-611.s26 <space> c4 <space> 0 -1 -2 0 -2 <space> 5 0 -1 <space> 1 2 -2 -1 -2 -2 2 <space> 0 7 0 -2 <space> -2 2 2 -2 -3 <space> 1 2 <space>
+264v_CH-E-611.s28 <space> c4 <space> 3 2 -2 -2 -1 <space> 0 -2 2 <space> 1 2 0 2 -2 <space> -2 -1 1 2 0 -2 <space> -1 0 -2 2 <space> 3 4 <space> -4 0 2 0 <space> 0 3 -3 -2 <space>
+264v_CH-E-611.s2 <space> c4 <space> 2 2 -2 -2 -1 -2 <space> 0 3 -3 0 -2 <space> 5 2 0 <space> 0 2 0 -2 <space>
+264v_CH-E-611.s30 <space> c4 <space> 2 3 -3 -2 <space> -3 1 2 0 0 <space> -2 -1 -2 2 1 2 <space> -2 -1 <space> 5 -2 2 3 <space> -5 -3 <space>
+264v_CH-E-611.s32 <space> c4 <space> 0 2 3 <space> -5 2 -2 <space> 5 2 -2 <space> -3 3 <space>
+264v_CH-E-611.s4 <space> c4 <space> 2 2 -2 0 2 <space> -4 -1 -2 <space> 0 5 0 <space> 0 0 2 -2 -2 <space> 2 -2 0 0 -1 <space> 1 2 -2 -1 -2 0 <space> 7 0 -2 -2 <space> 2 2 -2 <space>
+264v_CH-E-611.s6 <space> c4 <space> 2 2 0 0 <space> 0 -2 2 0 <space> -2 -3 1 2 <space> -2 -1 -2 0 <space> 2 1 -3 3 -1 -4 <space> 5 2 2 -2 <space>
+264v_CH-E-611.s8 <space> c4 <space> 2 2 0 -2 -3 1 <space> 2 -2 -1 -2 -2 2 <space> 0 7 0 -2 <space> -2 2 2 -2 <space> -5 0 -2 <space> 5 2 -2 <space> 2 2 0 <space>
+267r_CH-E-611.s0 <space> c4 <space> 3 -1 1 -1 -2 0 <space> 0 0 0 0 0 <space> 3 0 -3 3 -3 <space> 0 -2 5 <space> 0 2 2 <space> 3 -3 2 <space> -4 -2 2 2 <space> -2 2 -2 -2 2 -2 <space> 0 2 2 0 -2 0 <space> -3 <space>
+267r_CH-E-611.s10 <space> c3 <space> -2 2 3 0 <space> 2 0 -2 2 2 -2 <space>
+267r_CH-E-611.s12 <space> c3 <space> 0 0 -5 <space> 5 -3 1 -3 <space> -2 2 -2 -2 2 2 <space> 3 -3 -2 2 0 <space> 5 -2 2 3 <space> -5 -3 <space> 0 -2 2 <space>
+267r_CH-E-611.s14 <space> c3 <space> 2 0 -2 2 2 -4 <space> 2 0 0 <space> -5 5 -3 1 <space> -3 -2 2 -2 <space> -2 2 2 2 1 -1 <space> -2 0 <space>
+267r_CH-E-611.s16 <space> c3 <space> -2 2 3 -5 <space> -3 <space>
+267r_CH-E-611.s18 <space> c4 <space> 2 3 -3 -2 -2 2 2 0 -2 <space> 0 5 0 2 -2 <space> -3 3 0 0 0 <space> 0 <space>
+267r_CH-E-611.s20 <space> c3 <space> 2 -2 0 -1 1 <space> -3 3 0 -5 <space> 0 5 0 <space> -1 1 -3 -2 <space> -2 0 2 -2 0 <space> 0 2 2 0 -2 <space> -2 2 <space>
+267r_CH-E-611.s22 <space> c4 <space> -2 -2 -1 1 2 0 -2 <space> 0 2 2 0 <space> 0 3 -3 0 <space> 0 -2 -2 2 2 0 <space> -2 <space>
+267r_CH-E-611.s24 <space> c4 <space> 2 3 0 0 0 <space> 0 -1 0 <space> 1 0 2 2 -2 <space> 0 -2 2 0 2 -2 <space> -2 -1 -2 2 0 <space> -2 7 <space> 3 <space>
+267r_CH-E-611.s26 <space> c4 <space> -2 -2 2 0 -2 <space> 0 -3 -2 2 <space> 2 1 -1 -2 3 <space> -5 0 5 <space> -3 -2 5 0 <space> 0 -1 -4 2 0 <space> 0 5 -2 2 2 -2 <space> -2 -1 -2 2 <space>
+267r_CH-E-611.s28 <space> c4 <space> -2 7 <space> 3 -3 0 -2 <space> -3 1 2 -2 -1 <space> 0 0 <space> 1 2 -2 -3 -2 <space> 2 3 -5 2 -2 <space> 0 2 2 1 -1 -2 -2 <space> 7 <space> -3 3 -2 -1 -2 <space> -2 <space>
+267r_CH-E-611.s2 <space> c4 <space> 2 -2 -3 -2 0 <space> 5 2 2 -2 <space> -2 2 -2 0 -1 <space> -2 -2 <space> 5 -5 2 0 <space> 2 1 -3 0 <space> 7 0 0 <space> -2 2 -2 0 -2 2 2 <space> -2 -2 0 2 2 <space>
+267r_CH-E-611.s30 <space> c4 <space> 0 3 -1 0 <space> 5 -2 2 3 <space> -5 -3 <space> 1 -1 -2 5 <space> 2 3 -3 0 <space> -4 <space> -3 -2 2 3 <space> 2 0 2 <space>
+267r_CH-E-611.s32 <space> c4 <space> -2 0 0 2 <space> 2 0 0 -2 <space> 2 -2 0 2 <space> -4 2 <space> -5 0 <space> 3 2 -2 <space> 4 -2 <space> 4 -2 <space>
+267r_CH-E-611.s4 <space> c4 <space> 0 -2 5 2 -2 <space> 2 2 0 0 -2 <space> 4 -2 -2 0 <space> -3 1 2 -2 -1 <space> -2 0 <space>
+267r_CH-E-611.s6 <space> c4 <space> 0 -2 -2 2 2 <space> -7 <space> 0 0 0 3 <space> -1 -2 3 2 <space> 2 -2 2 -2 2 2 -2 <space> 0 -2 <space>
+267r_CH-E-611.s8 <space> c4 <space> 1 2 -2 -3 <space> 0 7 0 -2 <space> -2 2 2 -2 <space>

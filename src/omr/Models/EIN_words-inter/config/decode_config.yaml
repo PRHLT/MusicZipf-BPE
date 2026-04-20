@@ -1,0 +1,25 @@
+common:
+  model_filename: EIN_words-inter
+  train_path: Models/EIN_words-inter
+data:
+  batch_size: 8
+  color_mode: L
+decode:
+  include_img_ids: 'true'
+  input_space: ' '
+  output_space: ' '
+  segmentation: 'null'
+  separator: ' '
+  use_symbols: 'true'
+img_dirs:
+- ../../data/lines/IMAGES/
+img_list: ../../data/lines/splits/EIN_testStaves.lst
+logging:
+  filepath: decode.log
+  level: INFO
+  overwrite: 'true'
+  to_stderr_level: INFO
+syms: ../../data/lines/EIN_symbols_inter.txt
+trainer:
+  auto_select_gpus: 'true'
+  gpus: 1
